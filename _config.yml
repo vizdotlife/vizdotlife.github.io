@@ -1,22 +1,22 @@
 #-------------------------------
 # Site Settings
-title: Viz.Life
+title: Dusty Pierre
 logo: # You can add own logo. For example '/images/logo.png'.
-description: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way. 
+description: A fictional character named Dusty Pierre who's exploring the world, writing, and creating art along the way. He's also one of the original Chilled Kongs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.viz.life" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dustypierre.com" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Viz.Life
-  author__bio: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
+  author__name: Dusty Pierre
+  author__bio: A fictional character named Dusty Pierre who's exploring the world, writing, and creating art along the way. He's also one of the original Chilled Kongs.
   author__avatar: '/images/profile/one_chilled_kong_profile.png'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/vizdotlife"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/onechilledkong"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -25,8 +25,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey there
-  hero__description: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
+  hero__title: Hey, I’m Dusty Pierre
+  hero__description: A fictional character named Dusty Pierre who's exploring the world, writing, and creating art along the way. He's also one of the original Chilled Kongs.
   hero__image: '/images/profile/one_chilled_kong_profile.png'
 
 
