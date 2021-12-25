@@ -2,7 +2,7 @@
 # Site Settings
 title: Viz.Life 
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Follow the fictional story of one of the original Chilled Kongs as he explores the world, being an artist, producing sounds, and just chilling with other CKs.
+description: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,7 +12,7 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 # Author Settings
 author:
   author__name: Viz.Life
-  author__bio: Follow the fictional story of one of the original Chilled Kongs as he explores the world, being an artist, producing sounds, and just chilling with other CKs.
+  author__bio: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
 
   author__avatar: '/images/profile/profile_image_1.png'
 
@@ -27,7 +27,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hello
-  hero__description: Follow the fictional story of one of the original Chilled Kongs as he explores the world, being an artist, producing sounds, and just chilling with other CKs.
+  hero__description: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
   hero__image: '/images/profile/one_chilled_kong_profile.png'
 
 
