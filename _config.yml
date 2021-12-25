@@ -1,22 +1,22 @@
 #-------------------------------
 # Site Settings
-title: Explore NFTs
+title: VizDotLife
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
+description: Cardano based artist.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.explorenfts.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.viz.life" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Explore NFTs 
+  author__name: VizDotLife 
   author__bio: A newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. Along the way I started to look at other people's projects and I was amazed of all the creativity being put into each one. And that's how Explore CNFTs was born!
-  author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
+  author__avatar: '/images/profile_2.png'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/explore_nfts"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/vizdotlife"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -26,8 +26,8 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Troy
-  hero__description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
-  hero__image: '/images/cnfts_minted/a_night_on_the_town_edited_3.png'
+  hero__description: Cardano based artist.
+  hero__image: '/images/profile_2.png'
 
 
 #-------------------------------
