@@ -1,10 +1,10 @@
 #-------------------------------
 # Site Settings
-title: Viz.Life 
+title: Viz.Life
 logo: # You can add own logo. For example '/images/logo.png'.
-description: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
+description: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.dustypierre.com" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -13,11 +13,10 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 author:
   author__name: Viz.Life
   author__bio: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
-
   author__avatar: '/images/profile/profile_image_1.jpeg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/VizDotLife"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/vizdotlife"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -26,7 +25,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello
+  hero__title: Hey there
   hero__description: A Cardano based artist who enjoys exploring the world of CNFTs and writing about the journey along the way.
   hero__image: '/images/profile/profile_image_1.jpeg'
 
