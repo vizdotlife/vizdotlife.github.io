@@ -1,22 +1,22 @@
 #-------------------------------
 # Site Settings
-title: Dusty Pierre
+title: Explore NFTs
 logo: # You can add own logo. For example '/images/logo.png'.
-description: A fictional character named Dusty Pierre who's exploring the world, writing, and creating art along the way. He's also one of the original Chilled Kongs.
+description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.dustypierre.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.explorenfts.com" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Dusty Pierre
-  author__bio: A fictional character named Dusty Pierre who's exploring the world, writing, and creating art along the way. He's also one of the original Chilled Kongs.
-  author__avatar: '/images/profile/one_chilled_kong_profile.png'
+  author__name: Explore NFTs 
+  author__bio: A newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. Along the way I started to look at other people's projects and I was amazed of all the creativity being put into each one. And that's how Explore CNFTs was born!
+  author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/onechilledkong"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/explore_nfts"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -25,9 +25,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Dusty Pierre
-  hero__description: A fictional character named Dusty Pierre who's exploring the world, writing, and creating art along the way. He's also one of the original Chilled Kongs.
-  hero__image: '/images/profile/one_chilled_kong_profile.png'
+  hero__title: Hey, I’m Troy
+  hero__description: Sharing my journey exploring the world of CNFTs on Cardano blockchain and as an artist myself creating some along the way.
+  hero__image: '/images/cnfts_minted/a_night_on_the_town_edited_3.png'
 
 
 #-------------------------------
