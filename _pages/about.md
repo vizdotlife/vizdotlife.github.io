@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/profile/about_header_1.jpg'
+image: '/images/profile/about_header_1.jpeg'
 ---
 
 A newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. 
