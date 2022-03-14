@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/about_header_1.png'
 ---
 
-A newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. 
+Hi, a newbie to the crypto space, I discovered Cardano early on in my journey while researching how to mint my own NFTs as an artist and creator. 
 
 More to come soon...
 
