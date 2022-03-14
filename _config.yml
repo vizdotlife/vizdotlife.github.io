@@ -26,7 +26,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Troy
-  hero__description: Cardano based artist.
+  hero__description: Cardano based artist inspired by photography and capturing snapshots in time around me.
   hero__image: '/images/profile_2.png'
 
 
