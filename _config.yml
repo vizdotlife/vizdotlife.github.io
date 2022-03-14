@@ -12,7 +12,7 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 # Author Settings
 author:
   author__name: VizDotLife 
-  author__bio: A Cardano based artist.
+  author__bio: A Cardano based artist inspired by what's around me and taking snapshots of moments in time.
   author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
 social:
