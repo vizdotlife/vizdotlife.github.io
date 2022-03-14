@@ -13,7 +13,7 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 author:
   author__name: VizDotLife 
   author__bio: A Cardano based artist.
-  author__avatar: '/images/profile_2.png'
+  author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/vizdotlife"}
