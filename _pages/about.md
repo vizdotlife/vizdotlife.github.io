@@ -6,7 +6,12 @@ image: '/images/about_header_1.png'
 ---
 
 ## What's Viz.Life?
-Well, quite simply Viz.Life was created to be a place where I can write stories about my life exploring the world and creating art along the way that's initially inspired by those moments in the journey along the way. Some of the art ideas I get are from photographs I take, but they usually develop into something more with unique twists in the final outcome of the NFTs in the collection. 
+Well, quite simply Viz.Life is a place where I can share my experiences exploring the world and creating art along the way that's initially inspired by those moments in time. Some of the art I create are initially inspired by photographs I take in the journey.
+
+Each CNFT within the art collection is a unique 1/1, which means each one has their own characterists that aren't included in any other piece. 
+
+## How many pieces are in the CNFT collection?
+The CNFT art collection itself continues to grow over time as I create new pieces, but each and every CNFT is a unique 1/1 piece.
 
 I hope you enjoy the stories I write and the art produced along the way.  
 
