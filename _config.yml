@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: VizDotLife
+title: Viz.Life
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Cardano based artist.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,7 +11,7 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 #-------------------------------
 # Author Settings
 author:
-  author__name: VizDotLife 
+  author__name: Viz.Life 
   author__bio: A Cardano based artist inspired by what's around me and taking snapshots of moments in time.
   author__avatar: '/images/explore_cnfts/blog-profile-image.jpg'
 
