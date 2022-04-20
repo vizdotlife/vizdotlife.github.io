@@ -4,6 +4,7 @@ title: Unique Sounds of San Francisco
 description: 
 date:   2021-11-30 15:01:35 +0300
 image: '/images/posts/unique_sounds/fog-horns-chart-1.png'
+include_flag: 'exclude'
 num: 7
 tags:   [CNFTs,Cardano, wall-art]
 ---
