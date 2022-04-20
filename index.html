@@ -5,7 +5,7 @@ image: '/images/01.jpg'
 
 <div class="container">
   <div class="row animate">
-    {% assign sorted_posts = site.posts | sort:"order" %}
+    {% assign sorted_posts = site.posts | sort:"num" %}
     {% for post in sorted_posts %}
       {% include new_article.html %}
     {% endfor %}
