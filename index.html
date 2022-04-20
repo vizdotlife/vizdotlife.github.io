@@ -5,9 +5,9 @@ image: '/images/01.jpg'
 
 <div class="container">
   <div class="row animate">
-    {% assign sorted_posts = site.posts.poems | sort:"num" %}
+    {% assign sorted_posts = site.posts | sort:"num" %}
     {% for post in sorted_posts %}
-      {% if post.include_flag contains 'include_from_homepage' %}
+      {% if post.categories contains 'poems' %}
         {% include new_article.html %}
       {% endif %}
     {% endfor %}
