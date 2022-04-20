@@ -2,7 +2,7 @@
   <div class="row animate">
     {% if site.posts.size > 0 %}
     {% assign sorted_pages = site.posts | sort:"order" %}
-      {% for post in paginator.posts %}
+      {% for post in sorted_pages %}
         {% include new_article.html %}
       {% endfor %}
     {% endif %}
