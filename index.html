@@ -15,17 +15,3 @@ image: '/images/01.jpg'
 </div>
 
 {% include pagination.html %}
-
-
-<div class="container">
-  <div class="row animate">
-    {% assign sorted_posts = site.test_pages | sort:"num" %}
-    {% for post in sorted_posts %}
-      {% if post.newest_tags contains 'poems' %}
-        {% include new_article.html %}
-      {% endif %}
-    {% endfor %}
-  </div>
-</div>
-
-{% include pagination.html %}
