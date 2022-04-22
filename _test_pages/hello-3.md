@@ -2,6 +2,7 @@
 layout: page
 title: Hello 3
 permalink: /hello-3/
+num: 3
 image: '/images/about_header_1.png'
 ---
 
