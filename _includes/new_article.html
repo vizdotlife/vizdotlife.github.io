@@ -3,7 +3,7 @@
 
     <div class="article__head">
 
-      {% if post.video_embed %}
+      {% if new_post.video_embed %}
       <div class="video-icon">
         <div class="circle pulse"></div>
         <div class="circle">
@@ -14,9 +14,9 @@
       </div>
       {% endif %}
 
-      {% if post.image %}
-      <a class="article__image" href="{{post.url | prepend: site.baseurl}}">
-        <img class="lazy" data-src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
+      {% if new_post.image %}
+      <a class="article__image" href="{{new_post.url | prepend: site.baseurl}}">
+        <img class="lazy" data-src="{{site.baseurl}}{{new_post.image}}" alt="{{new_post.title}}">
       </a>
       {% endif %}
 
@@ -25,11 +25,11 @@
     <div class="article__content">
 
       <h2 class="article__title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a href="{{ new_post.url | prepend: site.baseurl }}">{{ new_post.title }}</a>
       </h2>
 
-      {% if post.description %}
-      <p class="article__excerpt">{{ post.description }}</p>
+      {% if new_post.description %}
+      <p class="article__excerpt">{{ new_post.description }}</p>
       {% endif %}
 
     </div>
