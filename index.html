@@ -3,6 +3,8 @@ layout: default
 image: '/images/01.jpg'
 ---
 
+<h1>{{ "Hello World!" | downcase }}</h1>
+
 <div class="container">
   <div class="row animate">
     {% assign sorted_posts = site.posts | sort:"num" %}
@@ -16,7 +18,4 @@ image: '/images/01.jpg'
 
 {% include pagination.html %}
 
-<div markdown="1">
-## Some Markdown Title
-Let's have a look. `snippet` _italic_ **bold**
-</div>
+
