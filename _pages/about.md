@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: What's Viz.Life?
 permalink: /about/
 image: '/images/about_header_1.png'
 ---
