@@ -7,7 +7,7 @@ image: '/images/01.jpg'
   <div class="row animate">
     {% assign sorted_posts = site.posts | sort:"num" %}
     {% for post in sorted_posts %}
-      {% if post.newest_tags contains 'poems' %}
+      {% if post.newest_tags contains 'collection' %}
         {% include new_article.html %}
       {% endif %}
     {% endfor %}
