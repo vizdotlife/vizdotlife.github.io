@@ -6,7 +6,7 @@ description:
 
 image: '/images/posts/unique_sounds/fog-horns-chart-1.png'
 include_flag: 'exclude_from_homepage'
-num: 5
+num: 1
 newest_tags:   [collection]
 tags:   [CNFTs,Cardano, wall-art, poems]
 ---
