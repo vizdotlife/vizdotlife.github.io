@@ -4,8 +4,6 @@ title: What's Viz.Life?
 permalink: /about/
 image: '/images/about_header_1.png'
 ---
-
-## What's Viz.Life?
 Well, quite simply Viz.Life is a place where I can share my experiences exploring the world and creating art along the way. Some of the art I create are initially inspired by photographs while others are just trying new ideas. 
 
 This is a place for me to let my spirit be free and not restricted. 
