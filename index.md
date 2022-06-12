@@ -29,7 +29,7 @@ Sometimes I might spend a great deal of time on a specific art piece that needs 
 The best ways to get in touch are either through Discord in my server or on Twitter. Those are the two primary social spots I'm active in. 
 
 ## Photography Collection 
-[Photography Collection](https://www.cardanocolor.com/photography)
+[Photography Collection](https://viz.life/photography)
 
 ## Anything else?
 Nothing else to share other than I hope you enjoy the CNFTs I create and the crypto journey. 
