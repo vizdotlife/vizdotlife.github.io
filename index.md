@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 
 permalink: index.html
 type: homepage
 class: first
