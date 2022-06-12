@@ -1,5 +1,5 @@
 ---
-title: "Let's Go"
+title: Home
 permalink: index.html
 type: homepage
 class: first
