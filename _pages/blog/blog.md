@@ -8,9 +8,4 @@ TBD...
 
 ## Blog
 
-{% assign sorted_posts = site.posts | sort:"num" %}
-{% for post in sorted_posts %}
-  {% if post.newest_tags contains 'collection' %}
-    {% include new_article.html %}
-  {% endif %}
-{% endfor %}
+{% include recent_articles.html %}
