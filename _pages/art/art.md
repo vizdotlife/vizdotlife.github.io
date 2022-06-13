@@ -6,4 +6,4 @@ image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.j
 ---
 TBD...
 
-## Hiking
+## Art
