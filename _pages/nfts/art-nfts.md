@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Art NFTs
+title:  
 permalink: /art-nfts/
 image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg'
 ---
