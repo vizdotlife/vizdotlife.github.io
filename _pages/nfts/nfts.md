@@ -6,7 +6,8 @@ image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.j
 ---
 TBD...
 
-## Photography Collection
+## Photography NFTs Collection
 [Photography NFT Collection](https://viz.life/photography-nfts)
 
 ## Art Collection
+Coming soon...
