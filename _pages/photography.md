@@ -2,7 +2,7 @@
 layout: page
 title:  Photography
 permalink: /photography/
-image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0002resized_25.jpg'
+image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg'
 ---
 TBD...
 
