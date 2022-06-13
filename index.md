@@ -5,7 +5,7 @@ type: homepage
 class: first
 custom_breadcrumb: Getting Started
 
-image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0004resized_25.jpg'
+image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0029resized_25.jpg'
 ---
 Well, quite simply Viz.Life is a place where I can share my experiences exploring the world and creating art along the way. Some of the art I create are initially inspired by photographs while others are just trying new ideas. 
 
