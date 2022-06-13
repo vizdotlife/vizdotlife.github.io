@@ -6,3 +6,5 @@ image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.j
 ---
 
 {% include recent_articles.html %}
+
+{% include recent_articles_2.html %}
