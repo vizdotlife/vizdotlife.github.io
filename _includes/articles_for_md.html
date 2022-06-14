@@ -4,13 +4,14 @@ image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0029resized_25.j
 ---
 
 <div class="container">
-  <div class="row animate">
-    {% if site.posts.size > 0 %}
-      {% for post in paginator.posts %}
-        {% include article.html %}
-      {% endfor %}
+<div class="row animate">
+  {% assign sorted_posts = site.posts | sort:"num" %}
+  {% for post in sorted_posts %}
+    {% if post.newest_tags contains 'collection' %}
+      {% include new_article.html %}
     {% endif %}
-  </div>
+  {% endfor %}
+</div>
 </div>
 
 {% include pagination.html %}
