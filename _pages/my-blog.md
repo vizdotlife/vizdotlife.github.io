@@ -6,9 +6,6 @@ image:
 ---
 TBD...
 
-## Blog
-Coming soon...
-
 <div class="container">
   <h1>{{ "Hello World!" | downcase }}</h1>
   <div class="row animate">
