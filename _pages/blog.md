@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Blog
+title:  My Blog
 permalink: /blog/
 image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg'
 ---
