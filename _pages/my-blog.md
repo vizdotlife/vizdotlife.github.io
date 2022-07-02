@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Blog
+title:  Blog Old
 permalink: /my-blog/
 image: 
 ---
