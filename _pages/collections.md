@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Collections
+title:  NFT Collections
 permalink: /nft-collections/
 image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg'
 ---
