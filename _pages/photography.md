@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Photography
+title:  
 permalink: /photography/
 image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg'
 ---
