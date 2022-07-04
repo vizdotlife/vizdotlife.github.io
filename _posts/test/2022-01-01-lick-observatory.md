@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Yeppers
+title: Lick Observatory
 description: 
 date:   2022-04-07 15:01:35 +0300
 image: '/images/posts/test/marketing2WM.jpg'
