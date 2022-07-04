@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skyline Blvd
+title: Fog barreling in over Skyline Blvd
 description: 
 date:   2022-04-11 15:01:35 +0300
 image: '/images/posts/test/marketing2WM.jpg'
