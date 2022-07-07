@@ -10,5 +10,5 @@ newest_tags:   [test]
 tags:   [CNFTs,Cardano, wall-art, poems]
 ---
 
-The term "High Speed Macro Photography" was entirely unknown to me until I discovered a collection of CNFTs launched by [Deborah Berry Photography](https://www.deborahberryphotography.com/). 
+Coming soon...
 
