@@ -4,18 +4,22 @@ title: About
 permalink: /about/
 image: '/images/art_header_23.png'
 ---
-Well, quite simply Viz.Life is a place where I can share my experiences exploring the world and creating art along the way. Some of the art I create are initially inspired by photographs while others are just trying new ideas. 
+Well, to put it simply Viz.Life is a place where I can share experiences exploring the world and creating art along the way. 
 
-This is a place for me to let my spirit be free and not restricted. 
+My name is Troy and I greatly enjoy creating abstract, fine art, and photography. Each individual piece in my art and photography collections are unique 1/1, which means no other piece will be the same. 
+
+Part of the enjoyment I have in creating art is the ability not to be restricted from trying new ideas and that is why you see many different art styles and colors in the collection. 
+
+I'm forever grateful for the support from collectors, friends, and family along this journey. 
 
 ## How many CNFT Collections do you have?
-I've broken out my work into two different collections, one for art and the other for photography. At some point there will be a third collection focused on data visualization. 
+I've broken out my work into two different collections, one for art and the other for photography. At some point there will be a third collection focused on fully on-chain art. 
 
 ## Is each CNFT a unique 1/1? 
-Yes, all CNFTs within both collections are unique 1/1 pieces. What that menas is there is each one has it's own characteristics that isn't included in any other piece. 
+Yes, all CNFTs in my collections are unique 1/1 pieces.
 
 ## Does the number of CNFTs in each collection grow over time? 
-Yes, the number of CNFTs in my collections will grow over time but please keep in mind that each minted CNFT will alays be a unique 1/1 piece. So even though the number of art and photography pieces in collections will go up it's more just a reflection of growth and expressing new ideas in the journey. 
+Yes, the number of CNFTs in my collections will grow over time but please keep in mind that each minted CNFT will alays be a unique 1/1 piece. So even though the number of art and photography pieces will go up it's more just a reflection of growth and expressing new ideas in the journey. 
 
 ## How often do you add new CNFTs into collections?
 There is no set timeline or dates when new CNFTs are minted and added to collections, but I'm trying my best to continually grow and add new pieces fairly regularly. I believe the best work I can produce for the collections will be when I don't restrict myself to specific deadlines or dates. 
