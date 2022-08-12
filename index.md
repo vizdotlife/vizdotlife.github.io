@@ -6,8 +6,8 @@ type: homepage
 
 ### Home
 
-### Viz.Life Art 001
-![](/images/art-collection/1.jpg) 
+### Art
+Coming soon...
 
 ### Viz.Life Art 001 
 ![](/images/art-collection/1.jpg)
