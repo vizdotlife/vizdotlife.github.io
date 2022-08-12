@@ -4,8 +4,7 @@ permalink: index.html
 type: page
 
 ---
-
-Newest batch of art pieces minted...
+### Newest batch of art pieces minted...
 
 ### Viz.Life Art 00001 
 ![](/images/art-collection/1.jpg) 
