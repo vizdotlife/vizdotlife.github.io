@@ -5,7 +5,7 @@ type: page
 
 ---
 
-### Viz.Life Art 0001 
+### Viz.Life Art 00001 
 ![](/images/art-collection/1.jpg) 
 
 ### Viz.Life Art 002 
