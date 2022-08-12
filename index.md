@@ -1,7 +1,7 @@
 ---
 title: 
 permalink: index.html
-type: page
+type: homepage
 
 ---
 ### Newest batch of art pieces minted...
