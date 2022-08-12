@@ -6,7 +6,7 @@ type: page
 ---
 ### Newest batch of art pieces minted...
 
-### Art 001 
+### Viz.Life Art 001 
 ![](/images/art-collection/1.jpg) 
 
 ### Viz.Life Art 002 
