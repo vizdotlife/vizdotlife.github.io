@@ -4,10 +4,9 @@ permalink: index.html
 type: homepage
 ---
 
-### Home 
+### Home
 
-### Viz.Life Art 001 
-![](/images/art-collection/1.jpg) 
+![Viz.Life Art 1](/images/art-collection/1.jpg) 
 
 ### Viz.Life Art 002 
 ![](/images/art-collection/2.jpg) 
