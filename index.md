@@ -2,13 +2,7 @@
 title: 
 permalink: index.html
 type: homepage
-
 ---
-### Newest batch of art pieces minted...
-TBD
-
-## TBD... 
-TBD
 
 ### Viz.Life Art 001 
 ![](/images/art-collection/1.jpg) 
