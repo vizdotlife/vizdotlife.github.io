@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Collections
+title:  
 permalink: /nft-collections/
 image:
 ---
