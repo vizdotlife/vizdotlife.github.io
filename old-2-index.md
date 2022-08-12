@@ -4,8 +4,8 @@ permalink: index.html
 type: page
 class: first
 custom_breadcrumb: Getting Started
-image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0029resized_25.jpg'
 ---
+
 ### Viz.Life Art 0001 
 ![](/images/art-collection/1.jpg) 
 
