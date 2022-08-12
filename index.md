@@ -10,7 +10,7 @@ image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0029resized_25.j
 
 Hi there, here are a few of my newest art pieces minted that can also be seen here...
 
-![](/images/art-collection/1.png) 
+![](/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg) 
 
 
 
