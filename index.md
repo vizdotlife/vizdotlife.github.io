@@ -4,13 +4,10 @@ permalink: index.html
 type: homepage
 ---
 
-### Home
-
-### Art
-Coming soon...
+### Home 
 
 ### Viz.Life Art 001 
-![](/images/art-collection/1.jpg)
+![](/images/art-collection/1-edited.jpg)
 
 ### Viz.Life Art 002 
 ![](/images/art-collection/2.jpg) 
