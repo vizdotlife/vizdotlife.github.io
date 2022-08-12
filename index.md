@@ -8,8 +8,6 @@ custom_breadcrumb: Getting Started
 image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0029resized_25.jpg'
 ---
 
-## Art Collection
-
 ### Viz.Life Art 001
 ![](/images/art-collection/1.jpg) 
 
