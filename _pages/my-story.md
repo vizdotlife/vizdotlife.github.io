@@ -37,4 +37,4 @@ I also sporadically write articles about NFTs on an entirely different website, 
 
 Twitter : [@Explore_NFTs](https://twitter.com/Explore_NFTs)  
 
-Website : [https://](https://www.explorenfts.com/)
+Website : [https://www.explorenfts.com](https://www.explorenfts.com/)
