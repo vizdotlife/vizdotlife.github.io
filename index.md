@@ -4,6 +4,8 @@ permalink: index.html
 type: homepage
 ---
 
+Hi, I'm a Cardano based artist and photographer who enjoys exploring the world around me and creating art along the way. 
+
 Each art piece in the collection is a unique 1/1. 
 
 [View on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
