@@ -6,7 +6,7 @@ type: homepage
 
 Each art piece in this collection is a unique 1/1.
 
-[View Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
+[View on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
 ### Viz.Life Art 001 
 ![](/images/art-collection/1-edited.jpg)
