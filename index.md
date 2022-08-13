@@ -4,7 +4,7 @@ permalink: index.html
 type: homepage
 ---
 
-### Home 
+### Art Collection 
 
 ### Viz.Life Art 001 
 ![](/images/art-collection/1-edited.jpg)
