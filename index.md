@@ -4,7 +4,7 @@ permalink: index.html
 type: homepage
 ---
 
-Each art piece in this collection is a unique 1/1.  If you'd like to check out which pieces might be on sale in the secondary market you can go [here.](https://www.jpg.store/collection/vizlifeartcollection) 
+Each art piece in this collection is a unique 1/1.
 
 [View Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
