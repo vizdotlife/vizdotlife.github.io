@@ -4,7 +4,8 @@ permalink: index.html
 type: homepage
 ---
 
-Each art piece in this collection is a unique 1/1.
+### Art Collection [View on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
+Each art piece in this collection is a unique 1/1. 
 
 [View on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
