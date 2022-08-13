@@ -1,6 +1,7 @@
 ---
 title: 
 permalink: index.html
+image: '/images/homepage_banner.jpg'
 type: homepage
 ---
 
