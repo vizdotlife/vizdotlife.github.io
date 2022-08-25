@@ -191,3 +191,33 @@ Hi, I'm a Cardano based artist and photographer who enjoys exploring the world a
 
 ### Viz.Life Art 061
 ![](/images/art-collection/61.jpg)
+
+### Viz.Life Art 062
+![](/images/art-collection/62.jpg)
+
+### Viz.Life Art 063
+![](/images/art-collection/63.jpg)
+
+### Viz.Life Art 064
+![](/images/art-collection/64.jpg)
+
+### Viz.Life Art 065
+![](/images/art-collection/65.jpg)
+
+### Viz.Life Art 066
+![](/images/art-collection/66.jpg)
+
+### Viz.Life Art 067
+![](/images/art-collection/67.jpg)
+
+### Viz.Life Art 068
+![](/images/art-collection/68.jpg)
+
+### Viz.Life Art 069
+![](/images/art-collection/69.jpg)
+
+### Viz.Life Art 070
+![](/images/art-collection/70.jpg)
+
+### Viz.Life Art 071
+![](/images/art-collection/71.jpg)
