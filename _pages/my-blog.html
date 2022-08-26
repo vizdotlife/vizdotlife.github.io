@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  
+title:  Blog
 permalink: /blog/
 image: '/images/01.jpg'
 ---
@@ -9,7 +9,7 @@ image: '/images/01.jpg'
   <div class="row animate">
     {% assign sorted_posts = site.posts | sort:"num" %}
     {% for post in sorted_posts %}
-      {% if post.newest_tags contains 'test' %}
+      {% if post.newest_tags contains 'include' %}
         {% include article.html %}
       {% endif %}
     {% endfor %}
