@@ -10,17 +10,9 @@ newest_tags:   [include]
 tags:   [Data Viz,Sounds]
 ---
 
-If you'd like to hop straight to listening to some of the sounds check out  below, however if you're interested in hearing more about how the project started please continue reading on.
+If you'd like to hop straight to listening to some of the sounds check out the podcast link below, however if you're interested in hearing more about how the project started please continue reading on.
 
-## Types of Sounds
-[**Fog Horns at Golden Gate Bridge**](https://youtu.be/frOqXoIqC7o)  
-[**Cable Car Ride**](https://youtu.be/B_cwgXwMzAk)  
-[**Sea Lions at Pier 39**](https://youtu.be/3RpASyt_ieY)   
-[**City Life**](https://youtu.be/jbY4DzaIAjg)  
-[**Bart Station**](https://youtu.be/8X0cMMIQj24)  
-[**Waves Crashing**](https://youtu.be/vP7qlhbOmRo)  
-[**Trolley Car**](https://youtu.be/DnImCJR0tBM)  
-[**Motorcycle**](https://youtu.be/vBJ4pZHT5Z4)  
+<iframe src="https://anchor.fm/vizdotlife/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## It all started with a cable car ride
 The first high quality sound recording I did was of a cable car ride from Ghiradelli Square to downtown Powell Street. 
