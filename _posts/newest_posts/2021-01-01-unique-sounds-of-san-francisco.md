@@ -56,14 +56,12 @@ Professionally I work and consume a vast amount of data on a daily basis for ana
 This project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
 
 ## More short stories recording sounds 
-[**Fog Horns at Golden Gate Bridge**](/fog-horns-at-golden-gate-bridge)  
+If you'd like to continue reading about this exploratory project feel free to continue reading the next part of the journey that talks specifically about recording the fog horns on Golden Gate Bridge one super early Saturday morning...
+
+Coming soon...
 
 ![](/images/sounds/fog-horns-chart-1.png)
 
-## Learn how to extract data from a WAV file and generate charts using Python and Matplotlib
-[**Create a chart from sound waves**](/read-wav-files-and-chart-with-matplotlib)  
-
-## Additional References
-[**Other Projects**](/projects)  
+## Thank you
 
 
