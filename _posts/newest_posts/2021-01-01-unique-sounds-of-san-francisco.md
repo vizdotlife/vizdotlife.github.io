@@ -10,22 +10,17 @@ newest_tags:   [none]
 tags:   [Data Viz,Sounds]
 ---
 
-If you'd like to hop straight to listening to some of the sounds check out categories below, however if you're interested in hearing more about how the project started please continue reading on.
+If you'd like to hop straight to listening to some of the sounds check out  below, however if you're interested in hearing more about how the project started please continue reading on.
 
 ## Types of Sounds
-[**Listen to All Sounds**](/all-sounds)  
-[**Fog Horns at Golden Gate Bridge**](/fog-horns-at-golden-gate-bridge)  
-[**Cable Car Ride**](/cable-cars)  
-[**Sea Lions at Pier 39**](/sea-lions-at-pier-39)   
-[**City Life**](/city-life)  
-[**Bart Station**](/bart-station)  
-[**Waves Crashing**](/waves-rain-water)  
-[**Trolley Car**](/trolley-cars)  
-[**Skateboards**](/skateboards)  
-
-## Additional References
-[**Charts of various sounds**](/charts-of-sounds)  
-[**Technical details of project**](/sound-project-requirements-and-details)  
+[**Fog Horns at Golden Gate Bridge**](https://youtu.be/frOqXoIqC7o)  
+[**Cable Car Ride**](https://youtu.be/B_cwgXwMzAk)  
+[**Sea Lions at Pier 39**](https://youtu.be/3RpASyt_ieY)   
+[**City Life**](https://youtu.be/jbY4DzaIAjg)  
+[**Bart Station**](https://youtu.be/8X0cMMIQj24)  
+[**Waves Crashing**](https://youtu.be/vP7qlhbOmRo)  
+[**Trolley Car**](https://youtu.be/DnImCJR0tBM)  
+[**Motorcycle**](https://youtu.be/vBJ4pZHT5Z4)  
 
 ## It all started with a cable car ride
 The first high quality sound recording I did was of a cable car ride from Ghiradelli Square to downtown Powell Street. 
