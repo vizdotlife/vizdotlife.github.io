@@ -38,7 +38,7 @@ Soon after a brisk walk from North Beach to Ghiradelli Square I hopped on a cabl
 As you might expect I did indeed get a few weird looks from people sitting around me for holding a foreign looking device in one hand and gripping a handle bar in the other hand. Over time it got easier to ignore peoples expressions, but it was one of the challenges throughout the entire project recording sounds.
 
 ## Ginormous file size!
-Soon after getting home I transferred the sound wave file from the recording device to my Mac and I loaded the raw data into what's called a data frame using Python and Pandas. My computer crashed in the process! After booting up again I checked the file size and it was almost 200MB, which means there's a LOT of data! 
+Soon after getting home I transferred the sound wave file from the recording device to my Mac and I loaded the raw data into what's called a DataFrame using Python and Pandas. My computer crashed in the process! After booting up again I checked the file size and it was almost 200MB, which means there's a LOT of data! 
 
 ## Visualizing Sounds
 After a few tries I was finally able to load the file into a dataframe to plot a visual representation of sounds during the cable car ride. 
