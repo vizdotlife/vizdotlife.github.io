@@ -12,7 +12,7 @@ tags:   [Data Viz,Sounds]
 
 If you'd like to hop straight to listening to some of the sounds check out the podcast link below, however if you're interested in hearing more about how the project started please continue reading on.
 
-[Listen to podcast here](https://open.spotify.com/show/42cRLn2YRwyLHiFRAHlSrw)
+[Listen to soundtracks here](https://open.spotify.com/show/42cRLn2YRwyLHiFRAHlSrw)
 
 ## It all started with a cable car ride
 The first high quality sound recording I did was of a cable car ride from Ghiradelli Square to downtown Powell Street. 
