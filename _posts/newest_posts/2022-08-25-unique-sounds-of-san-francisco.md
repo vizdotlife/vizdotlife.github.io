@@ -51,10 +51,7 @@ After a little research I learned that 44,100 records are logged per second in a
 ## This got me hooked
 For many years professionally I worked and consumed a vast amount of data on a daily basis for analytics, however it was a new experience to generate data on my own. I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.  
 
-
 ## Next decided to record the fog horns on Golden Gate Bridge
-![](/images/sounds/cable-car-ride.png) 
-
 One of the most memorable days for me in this project was waking up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
 
 ![](/images/sounds/fog-horns-chart-1.png)
