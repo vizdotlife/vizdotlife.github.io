@@ -14,7 +14,7 @@ tags:   [Data Viz,Sounds]
 This project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
 
 ## Sound track published as a podcast
-![](/images/sounds/season-1-sounds-of-sanfrancisco.png) 
+![](/images/sounds/season-1-sounds-of-sanfrancisco_50.jpg) 
 
 If you'd like to hop straight to listening to some of the sounds check out the podcast link below, however if you're interested in hearing more about how the project started please continue reading on.
 
