@@ -10,8 +10,7 @@ newest_tags:   [include]
 tags:   [Data Viz,Sounds]
 ---
 
-## Side exploratory project on sounds and patterns
-This exploratory side project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
+As an intro this art is writing about an exploratory side project I worked on for fun that primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns. 
 
 ## The sound track is published as a podcast episodes
 ![](/images/sounds/season-1-sounds-of-sanfrancisco_50.jpg) 
