@@ -19,7 +19,7 @@ The entire process flow is not just about recording sounds, but also deciding wh
 
 If you'd like to hop right into listening to some of the sounds feel free to check out the soundtrack I published as a podcast in the link below, however if you're interested in hearing more about how the project started please continue reading on.
 
-[Listen to soundtracks here](https://open.spotify.com/show/42cRLn2YRwyLHiFRAHlSrw)
+### [Listen to soundtracks here](https://open.spotify.com/show/42cRLn2YRwyLHiFRAHlSrw)
 
 ## It all started with a cable car ride
 The first high quality sound recording I did was of a cable car ride from Ghiradelli Square to downtown Powell Street. 
