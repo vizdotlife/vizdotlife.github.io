@@ -14,7 +14,7 @@ Recording unique sounds was an exploratory side project that turned out to be a 
 
 The entire process flow is not just about recording sounds, but also deciding where to go and what type of sounds to record, extracting the raw data from .wav files, turning that data to life with visuals, and looking at patterns. 
 
-## The soundtrack is published as podcast episodes
+## The soundtrack is published as podcasts
 ![](/images/sounds/season-1-sounds-of-sanfrancisco_50.jpg) 
 
 If you'd like to hop right into listening to some of the sounds feel free to check out the soundtrack I published as a podcast in the link below, however if you're interested in hearing more about how the project started please continue reading on.
