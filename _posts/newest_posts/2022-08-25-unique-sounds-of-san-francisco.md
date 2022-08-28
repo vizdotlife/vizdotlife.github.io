@@ -46,7 +46,7 @@ After a few tries I was finally able to load the file into a dataframe to plot a
 
 Want to guess how many data points are collected in a 19 minute cable car ride visualized in the chart above?
 
-After a little research I learned that 44,100 records are added per second in a 16 bit wave file. After some quick math it equates to over 50 million records in the dataset!
+After a little research I learned that 44,100 records are logged per second in a 16 bit wave file. After some quick math it equates to over 50 million records in the dataset!
 
 ## This got me hooked
 For many years professionally I worked and consumed a vast amount of data on a daily basis for analytics, however it was a new experience to generate data on my own. I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.  
