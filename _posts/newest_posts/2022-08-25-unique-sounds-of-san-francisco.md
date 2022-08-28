@@ -10,8 +10,7 @@ newest_tags:   [include]
 tags:   [Data Viz,Sounds]
 ---
 
-## In summary this project is about sounds and patterns
-This project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
+This exploratory side project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
 
 ## Sound track published as a podcast
 ![](/images/sounds/season-1-sounds-of-sanfrancisco_50.jpg) 
