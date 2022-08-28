@@ -32,10 +32,7 @@ A random Saturday night after spending time researching the best devices to reco
 
 Soon after a brisk walk from North Beach to Ghiradelli Square I hopped on a cable car and picked a front row seat. Given it was around 11pm at night and chilly, there were plenty of seats to pick from. I reached for the recording device out of a Trader Joe's bag, turned it on, and started recording shortly before the ride started. 
 
-<iframe src="https://open.spotify.com/embed/episode/0JCp3tf6e4NdeccetoIQgz?utm_source=generator" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-Testing...
-
+<iframe src="https://open.spotify.com/embed/episode/0JCp3tf6e4NdeccetoIQgz?utm_source=generator" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
 As you might expect I did indeed get a few weird looks from people sitting around me for holding a foreign looking device in one hand and gripping a handle bar in the other hand. Over time it got easier to ignore peoples expressions, but it was one of the challenges throughout the entire project recording sounds.
 
 ## Ginormous file size!
@@ -61,7 +58,7 @@ On a quick side tangent I recently left the corporate world to focus fully on gr
 ## The next recording was the fog horns on Golden Gate Bridge
 One of the most memorable days for me in this project was waking up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6gpoOUAWTrL41QNFd9PLk7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+<iframe src="https://open.spotify.com/embed/episode/6gpoOUAWTrL41QNFd9PLk7?utm_source=generator" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
 
 And here's what the pattern looks like after extracting the data and turning into a data visualization. 
 
