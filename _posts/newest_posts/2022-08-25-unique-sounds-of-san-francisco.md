@@ -12,6 +12,8 @@ tags:   [Data Viz,Sounds]
 
 If you'd like to hop straight to listening to some of the sounds check out the podcast link below, however if you're interested in hearing more about how the project started please continue reading on.
 
+![](/images/sounds/season-1-sounds-of-sanfrancisco.png)
+
 [Listen to soundtracks here](https://open.spotify.com/show/42cRLn2YRwyLHiFRAHlSrw)
 
 ## In summary this project is about sounds and patterns
