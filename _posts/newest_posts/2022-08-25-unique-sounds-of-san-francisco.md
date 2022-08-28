@@ -58,7 +58,7 @@ One of the most memorable days for me in this project was waking up super early 
 
 And here's what the pattern looks like after extracting the data and turning into a data visualization. 
 
-![](/images/sounds/fog-horns-chart-2.png)
+![](/images/sounds/fog-horns-chart-1.png)
 
 ## Thank you
 
