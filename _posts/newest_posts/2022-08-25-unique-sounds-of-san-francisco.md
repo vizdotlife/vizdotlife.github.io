@@ -32,7 +32,9 @@ A random Saturday night after spending time researching the best devices to reco
 
 Soon after a brisk walk from North Beach to Ghiradelli Square I hopped on a cable car and picked a front row seat. Given it was around 11pm at night and chilly, there were plenty of seats to pick from. I reached for the recording device out of a Trader Joe's bag, turned it on, and started recording shortly before the ride started. 
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0JCp3tf6e4NdeccetoIQgz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/0JCp3tf6e4NdeccetoIQgz?utm_source=generator" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Testing...
 
 As you might expect I did indeed get a few weird looks from people sitting around me for holding a foreign looking device in one hand and gripping a handle bar in the other hand. Over time it got easier to ignore peoples expressions, but it was one of the challenges throughout the entire project recording sounds.
 
