@@ -48,9 +48,9 @@ After a little research I learned that 44,100 records are added per second in a 
 For many years professionally I worked and consumed a vast amount of data on a daily basis for analytics, however it was a new experience to generate data on my own. I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.  
 
 ## Fog Horns on Golden Gate Bridge
+![](/images/sounds/cable-car-ride.png) 
 
-## More short stories recording sounds 
-If you'd like to continue reading about this exploratory project feel free to continue reading the next part of the journey that talks specifically about recording the fog horns on Golden Gate Bridge one super early Saturday morning...
+A next step in this project was to wake up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
 
 Coming soon...
 
