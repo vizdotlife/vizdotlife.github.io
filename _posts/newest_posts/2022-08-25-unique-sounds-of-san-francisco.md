@@ -10,6 +10,7 @@ newest_tags:   [include]
 tags:   [Data Viz,Sounds]
 ---
 
+## Side exploratory project on sounds and patterns
 This exploratory side project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
 
 ## Sound track published as a podcast
