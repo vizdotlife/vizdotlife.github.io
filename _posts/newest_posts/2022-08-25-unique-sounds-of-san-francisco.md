@@ -56,7 +56,7 @@ I was fascinated with this new experience and the limitless learnings that could
 ## Quick side tangent for context purposes
 On a quick side tangent I recently left the corporate world to focus fully on growing as an independant artist, photographer, and writer. This also gives me more time to work on exploratory projects like this one recording unique sounds. 
 
-## Next decided to record the fog horns on Golden Gate Bridge
+## The next recording was the fog horns on Golden Gate Bridge
 One of the most memorable days for me in this project was waking up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6gpoOUAWTrL41QNFd9PLk7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
