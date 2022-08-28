@@ -49,7 +49,12 @@ Want to guess how many data points are collected in a 19 minute cable car ride v
 After a little research I learned that 44,100 records are logged per second in a 16 bit wave file. After some quick math it equates to over 50 million records in the dataset!
 
 ## This got me hooked
-For many years professionally I worked and consumed a vast amount of data on a daily basis for analytics, however it was a new experience to generate data on my own. I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.  
+Up until recently I professionally worked in data analytics for several years and consumed a vast amount of data on a daily basis, however it was a new experience to generate data on my own.
+
+I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.
+
+## Quick side tangent for context purposes
+On a quick side tangent I recently left the corporate world to focus fully on growing as an independant artist, photographer, and writer. This also gives me more time to work on exploratory projects like this one recording unique sounds. 
 
 ## Next decided to record the fog horns on Golden Gate Bridge
 One of the most memorable days for me in this project was waking up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
