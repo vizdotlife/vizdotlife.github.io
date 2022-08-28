@@ -54,6 +54,10 @@ For many years professionally I worked and consumed a vast amount of data on a d
 ## Next decided to record the fog horns on Golden Gate Bridge
 One of the most memorable days for me in this project was waking up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6gpoOUAWTrL41QNFd9PLk7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+
+And here's what the pattern looks like after extracting the data and turning into a data visualization. 
+
 ![](/images/sounds/fog-horns-chart-1.png)
 
 ## Thank you
