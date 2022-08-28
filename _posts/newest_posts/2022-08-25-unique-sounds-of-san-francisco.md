@@ -12,7 +12,7 @@ tags:   [Data Viz,Sounds]
 
 Recording unique sounds was an exploratory side project that turned out to be a much bigger endeavor than I initially planned, mostly due to how interesting it became diving into the data and patterns, and learning of the steps involved. 
 
-The entire process flow is not just about recording sounds, but also extracting the raw data from .wav files, turning that data to life with visuals, and looking at patterns. 
+The entire process flow is not just about recording sounds, but also deciding where to go and what type of sounds to record, extracting the raw data from .wav files, turning that data to life with visuals, and looking at patterns. 
 
 ## The soundtrack is published as podcast episodes
 ![](/images/sounds/season-1-sounds-of-sanfrancisco_50.jpg) 
