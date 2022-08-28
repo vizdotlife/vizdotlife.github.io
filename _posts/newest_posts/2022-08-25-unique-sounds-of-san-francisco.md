@@ -10,12 +10,12 @@ newest_tags:   [include]
 tags:   [Data Viz,Sounds]
 ---
 
-As an intro this art is writing about an exploratory side project I worked on for fun that primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns. 
+Recording unique sounds as an exploratory side project turned out to be a much bigger endeavor than I initially planned, mostly due to how interesting it became exploring the data and patterns, and learning of the steps involved. The entire process flow is not just about recording sounds, but also extracting the raw data from .wav files, turning that data to life with visuals, and looking at patterns. 
 
 ## The sound track is published as a podcast episodes
 ![](/images/sounds/season-1-sounds-of-sanfrancisco_50.jpg) 
 
-If you'd like to hop straight into listening to some of the sound tracks feel free to check out the podcast link below, however if you're interested in hearing more about how the project started please continue reading on.
+If you'd like to hop right into listening to some of the sounds feel free to check out the soundtrack I published as a podcast in the link below, however if you're interested in hearing more about how the project started please continue reading on.
 
 [Listen to soundtracks here](https://open.spotify.com/show/42cRLn2YRwyLHiFRAHlSrw)
 
@@ -52,9 +52,7 @@ For many years professionally I worked and consumed a vast amount of data on a d
 ## Fog Horns on Golden Gate Bridge
 ![](/images/sounds/cable-car-ride.png) 
 
-A next step in this project was to wake up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
-
-Coming soon...
+One of the most memorable days for me in this project was waking up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
 
 ![](/images/sounds/fog-horns-chart-1.png)
 
