@@ -14,6 +14,9 @@ If you'd like to hop straight to listening to some of the sounds check out the p
 
 [Listen to soundtracks here](https://open.spotify.com/show/42cRLn2YRwyLHiFRAHlSrw)
 
+## In summary this project is about sounds and patterns
+This project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
+
 ## It all started with a cable car ride
 The first high quality sound recording I did was of a cable car ride from Ghiradelli Square to downtown Powell Street. 
 
@@ -42,10 +45,9 @@ Want to guess how many data points are collected in a 19 minute cable car ride v
 After a little research I learned that 44,100 records are added per second in a 16 bit wave file. After some quick math it equates to over 50 million records in the dataset!
 
 ## This got me hooked
-Professionally I work and consume a vast amount of data on a daily basis for analytics, however it was a new experience to generate data on my own. I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.  
+For many years professionally I worked and consumed a vast amount of data on a daily basis for analytics, however it was a new experience to generate data on my own. I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.  
 
-## In summary this project is about sounds and patterns
-This project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
+## Fog Horns on Golden Gate Bridge
 
 ## More short stories recording sounds 
 If you'd like to continue reading about this exploratory project feel free to continue reading the next part of the journey that talks specifically about recording the fog horns on Golden Gate Bridge one super early Saturday morning...
