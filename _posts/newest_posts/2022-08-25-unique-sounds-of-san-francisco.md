@@ -69,6 +69,6 @@ Thanks so much for visiting Viz.Life. I want to thank my family, collectors, fri
 
 Feel to check out what I've been up to on Twitter or say hello on my Discord server.
 
+Twitter : [@VizDotLife](https://twitter.com/VizDotLife)  
 
-
-
+Discord : [https://discord.gg/p65rU793](https://discord.gg/p65rU793)
