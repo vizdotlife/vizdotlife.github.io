@@ -64,6 +64,11 @@ And here's what the pattern looks like after extracting the data and turning int
 
 ![](/images/sounds/fog-horns-chart-1.png)
 
-## Thank you
+## Anything else? 
+Thanks so much for visiting Viz.Life. I want to thank my family, collectors, friends, and visitors for supporting me in this endeavor. 
+
+Feel to check out what I've been up to on Twitter or say hello on my Discord server.
+
+
 
 
