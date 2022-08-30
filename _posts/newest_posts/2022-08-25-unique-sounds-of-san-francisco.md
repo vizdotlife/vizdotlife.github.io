@@ -48,20 +48,23 @@ Want to guess how many data points are collected in a 19 minute cable car ride v
 After a little research I learned that 44,100 records are logged per second in a 16 bit wave file. After some quick math it equates to over 50 million records in the dataset!
 
 ## This got me hooked
-Up until recently I professionally worked in data analytics for several years and consumed a vast amount of data on a daily basis, however it was a new experience to generate data on my own.
+Up until recently I worked professionally in data analytics for several years and it required consuming vast amounts of data for data wrangling, research, and story telling. But it was an entirely new experience for me to generate raw data in a pure untouched form.
 
 I was fascinated with this new experience and the limitless learnings that could come out of collecting and analyzing patterns of sounds.
 
-## Quick side tangent for context purposes
 On a quick side tangent I recently left the corporate world to focus fully on growing as an independant artist, photographer, and writer. This also gives me more time to work on exploratory projects like this one recording unique sounds. 
 
-## The next recording was the fog horns on Golden Gate Bridge
-One of the most memorable days for me in this project was waking up super early on a foggy Saturday morning to record the fog horns on Golden Gate Bridge. 
+## In summary this project is about sounds and patterns
+This project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
+
+## More short stories recording sounds 
+Here's a taste of the next article I'll write about waking up super early on a foggy Saturday morning to record the fog horns of Golden Gate Bridge. It was one of the memorable days recording sounds in this project. 
+
+You can listen here to what the fog horns sounded like until the story is released. 
 
 <iframe src="https://open.spotify.com/embed/episode/6gpoOUAWTrL41QNFd9PLk7?utm_source=generator" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
 
 And here's what the pattern looks like after extracting the data and turning into a data visualization. 
-
 ![](/images/sounds/fog-horns-chart-1.png)
 
 ## Anything else? 
