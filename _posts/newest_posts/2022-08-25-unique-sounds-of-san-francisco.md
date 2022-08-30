@@ -54,8 +54,8 @@ I was fascinated with this new experience and the limitless learnings that could
 
 On a quick side tangent I recently left the corporate world to focus fully on growing as an independant artist, photographer, and writer. This also gives me more time to work on exploratory projects like this one recording unique sounds. 
 
-## In summary this project is about sounds and patterns
-This project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
+## In summary this exploratory side project is about sounds and patterns
+This exploratory side project is primarly focused on recording unique sounds, extracting the raw data from .wav files, turning it to life with visuals, and looking at patterns.  
 
 ## More short stories recording sounds 
 Here's a taste of the next article I'll write about waking up super early on a foggy Saturday morning to record the fog horns of Golden Gate Bridge. It was one of the memorable days recording sounds in this project. 
