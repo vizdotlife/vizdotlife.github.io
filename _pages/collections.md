@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title:  Collections
 permalink: /collections/
 image: '/images/01.jpg'
 ---
 
-Hello
+Coming soon...
