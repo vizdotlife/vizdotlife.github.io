@@ -7,7 +7,7 @@ image: '/images/posts/unique_sounds/fog-horns-chart-2.png'
 include_flag: 'exclude_from_homepage'
 num: 1
 newest_tags:   [include]
-tags:   [Data Viz,Sounds]
+tags:   []
 ---
 
 Recording unique sounds was an exploratory side project that turned out to be a much bigger endeavor than I initially planned, mostly due to how interesting it became diving into the data and patterns, and learning of the steps involved. 
