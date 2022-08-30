@@ -60,12 +60,14 @@ This exploratory side project is primarly focused on recording unique sounds, ex
 ## More short stories recording sounds 
 Here's a taste of the next article I'll write about waking up super early on a foggy Saturday morning to record the fog horns of Golden Gate Bridge. It was one of the memorable days recording sounds in this project. 
 
-You can listen here to what the fog horns sounded like until the story is released. 
+You can listen to the fog horns below.  
 
 <iframe src="https://open.spotify.com/embed/episode/6gpoOUAWTrL41QNFd9PLk7?utm_source=generator" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
 
 And here's what the pattern looks like after extracting the data and turning into a data visualization. 
 ![](/images/sounds/fog-horns-chart-1.png)
+
+More to come on this story soon!
 
 ## Anything else? 
 Thanks so much for visiting Viz.Life. I want to thank my family, collectors, friends, and visitors for supporting me in this endeavor. 
