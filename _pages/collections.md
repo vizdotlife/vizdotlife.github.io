@@ -2,7 +2,7 @@
 layout: page
 title:  Collections
 permalink: /collections/
-image: ''
+image: '/images/18.png_50.jpg'
 ---
 
 Coming soon...
