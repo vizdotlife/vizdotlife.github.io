@@ -10,4 +10,5 @@ image: '/images/18.png_50.jpg'
 [Here](https://www.jpg.store/collection/vizlifephotoscollection)
 
 # Art Collection
+![](/images/art-collection/6.jpg) 
 [Here](https://www.jpg.store/collection/vizlifeartcollection)
