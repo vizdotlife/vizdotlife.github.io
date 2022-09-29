@@ -9,6 +9,107 @@ Hi, I'm a Cardano based artist and photographer who enjoys exploring the world a
 
 ## [View Art Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
+### Most recent minted pieces in the art collection
+
+### Viz.Life Art 082 
+![](/images/art-collection/82.jpg) 
+
+### Viz.Life Art 083 
+![](/images/art-collection/83.jpg) 
+
+### Viz.Life Art 084 
+![](/images/art-collection/84.jpg) 
+
+### Viz.Life Art 085 
+![](/images/art-collection/85.jpg) 
+
+### Viz.Life Art 086 
+![](/images/art-collection/86.jpg) 
+
+### Viz.Life Art 087 
+![](/images/art-collection/87.jpg) 
+
+### Viz.Life Art 088 
+![](/images/art-collection/88.jpg) 
+
+### Viz.Life Art 089 
+![](/images/art-collection/89.jpg) 
+
+### Viz.Life Art 090 
+![](/images/art-collection/90.jpg) 
+
+### Viz.Life Art 091 
+![](/images/art-collection/91.jpg) 
+
+### Viz.Life Art 092 
+![](/images/art-collection/92.jpg) 
+
+### Viz.Life Art 093 
+![](/images/art-collection/93.jpg) 
+
+### Viz.Life Art 094 
+![](/images/art-collection/94.jpg) 
+
+### Viz.Life Art 095 
+![](/images/art-collection/95.jpg) 
+
+### Viz.Life Art 096 
+![](/images/art-collection/96.jpg) 
+
+### Viz.Life Art 097 
+![](/images/art-collection/97.jpg) 
+
+### Viz.Life Art 098 
+![](/images/art-collection/98.jpg) 
+
+### Viz.Life Art 099 
+![](/images/art-collection/99.jpg) 
+
+### Viz.Life Art 100 
+![](/images/art-collection/100.jpg) 
+
+### Viz.Life Art 101 
+![](/images/art-collection/101.jpg) 
+
+### Viz.Life Art 102 
+![](/images/art-collection/102.jpg) 
+
+### Viz.Life Art 103 
+![](/images/art-collection/103.jpg) 
+
+### Viz.Life Art 104 
+![](/images/art-collection/104.jpg) 
+
+### Viz.Life Art 105 
+![](/images/art-collection/105.jpg) 
+
+### Viz.Life Art 106 
+![](/images/art-collection/106.jpg) 
+
+### Viz.Life Art 107 
+![](/images/art-collection/107.jpg) 
+
+### Viz.Life Art 108 
+![](/images/art-collection/108.jpg) 
+
+### Viz.Life Art 109 
+![](/images/art-collection/109.jpg) 
+
+### Viz.Life Art 110 
+![](/images/art-collection/110.jpg) 
+
+### Viz.Life Art 111 
+![](/images/art-collection/111.jpg) 
+
+### Viz.Life Art 112 
+![](/images/art-collection/112.jpg) 
+
+### Viz.Life Art 113 
+![](/images/art-collection/113.jpg) 
+
+
+## Older pieces in the collection
+
 ### Viz.Life Art 001 
 ![](/images/art-collection/1-edited.jpg)
 
