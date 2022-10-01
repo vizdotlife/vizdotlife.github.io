@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Coming Soon!
+title:  Collections
 permalink: /collections/
 image: '/images/112.jpg'
 ---
