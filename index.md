@@ -13,7 +13,7 @@ Coming soon is a new collection and series called "The Straw Family". The first 
 ![](/images/straw-family/straw-4.jpg) 
 
 ## Art collection pieces listed for sale
-The primary marketplace I list my art pieces is on JPG.store and you can seem them in the link below.
+If you'd like to see my main art pieces listed for sale that aren't part of the upcoming launch of "The Straw Family" you can seee them [here.](https://www.jpg.store/collection/vizlifeartcollection)
 
 [View Art Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
