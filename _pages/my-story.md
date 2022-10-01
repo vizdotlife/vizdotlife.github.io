@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/art_header_23.png'
+image: '/images/112.jpg'
 ---
 Well, to put it simply Viz.Life is a place where I can share with the world what I'm working on, which is mostly creating art, photography, and experimenting with new ideas. 
 
