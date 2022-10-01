@@ -7,15 +7,15 @@ type: homepage
 
 Hi, I'm a Cardano based artist and photographer who enjoys exploring the world around me and creating art along the way. 
 
-## Art pieces listed for sale
-The primary marketplace I list my art pieces is on JPG.store and you can seem them in the link below.
-
-[View Art Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
-
 ## Launch of "The Straw Family" is coming soon!
 Coming soon is a new collection and series called "The Straw Family". The first series is themed around Halloween and music for unique straw scarecrow characters. For most recent info and updates on the upcoming launch you can either hop into my [Discord server](https://discord.gg/H3pzcetN) or visit my [Twitter](https://twitter.com/vizdotlife). 
 
 ![](/images/straw-family/straw-4.jpg) 
+
+## Art collection pieces listed for sale
+The primary marketplace I list my art pieces is on JPG.store and you can seem them in the link below.
+
+[View Art Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
 ### Most recent minted pieces in the art collection
 List below are the newest pieces minted in my art collection for #082 - #113
