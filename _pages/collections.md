@@ -2,7 +2,7 @@
 layout: page
 title:  Collections
 permalink: /collections/
-image: '/images/18.png_50.jpg'
+image: '/images/112.jpg'
 ---
 
 # Photography Collection
