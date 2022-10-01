@@ -18,7 +18,7 @@ The primary marketplace I list my art pieces is on JPG.store and you can seem th
 [View Art Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
 ### Most recent minted pieces in the art collection
-List below are the newest pieces minted in my art collection for #082 - #113
+Listed below are the newest pieces minted in my art collection for #082 - #113
 
 ### Viz.Life Art 082 
 ![](/images/art-collection/82.jpg) 
