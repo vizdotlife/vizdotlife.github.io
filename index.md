@@ -17,7 +17,7 @@ If you'd like to see my main art pieces listed for sale that aren't part of the 
 
 [View Art Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
 
-### Most recent minted pieces in the art collection
+### Most recent pieces added to the art collection
 Listed below are the newest pieces minted in my art collection for #082 - #113
 
 ### Viz.Life Art 082 
