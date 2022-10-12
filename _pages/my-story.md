@@ -21,7 +21,7 @@ Website : [https://viz.life](https://www.viz.life/)
 Discord : [https://discord.gg/p65rU793](https://discord.gg/p65rU793)
 
 ## How many CNFT Collections do you have?
-I've separated my work into two different collections, one for art and the other for photography. At some point there will be a third collection focused on fully on-chain art. 
+I've separated my work into two different collections, one for art and the other for photography. There are plans to release future collections that are focused on more niche themes. 
 
 ## Is each CNFT a unique 1/1? 
 Yes, all CNFTs in my collections are unique 1/1 pieces.
