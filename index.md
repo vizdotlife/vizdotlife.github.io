@@ -10,7 +10,7 @@ Hi, I'm a Cardano based artist and photographer who enjoys exploring the world a
 ## "The Straw Family" is coming soon to Cardano!
 Coming soon is a new collection and series called "The Straw Family". The first series is themed around Halloween and music for unique straw scarecrow characters. For most recent info and updates on the upcoming launch you can either hop into my [Discord server](https://discord.gg/H3pzcetN) or visit my [Twitter](https://twitter.com/vizdotlife). 
 
-![](/images/straw-family/straw-4.jpg) 
+![](/images/the-straw-family/1.jpg) 
 
 ## Art collection pieces listed for sale
 If you'd like to see my main art pieces listed for sale that aren't part of the upcoming launch of "The Straw Family" you can seee them [here.](https://www.jpg.store/collection/vizlifeartcollection)
