@@ -5,7 +5,7 @@ permalink: /the-straw-family/
 image: '/images/the-straw-family/TheStrawFamily_7.jpg'
 ---
 
-"The Straw Family" collection is coming soon to the Cardano blockchain! The first series is themed around Halloween and music for unique straw scarecrow characters. For most recent info and updates on the upcoming launch you can either hop into my [Discord server](https://discord.gg/H3pzcetN) or visit my [Twitter](https://twitter.com/vizdotlife). 
+"The Straw Family" collection is coming soon to the Cardano blockchain! The collection is themed around Halloween and music for unique straw scarecrow characters. For most recent info and updates on the upcoming launch you can either hop into my [Discord server](https://discord.gg/H3pzcetN) or visit my [Twitter](https://twitter.com/vizdotlife). 
 
 ### Straw Family 001 
 ![](/images/the-straw-family/1.jpg)
