@@ -15,7 +15,7 @@ Coming soon is a new collection and series called "The Straw Family". The first 
 ## Art collection pieces listed for sale
 If you'd like to see my main art pieces listed for sale that aren't part of the upcoming launch of "The Straw Family" you can seee them [here.](https://www.jpg.store/collection/vizlifeartcollection)
 
-[View Art Collection on JPG.Store](https://www.jpg.store/collection/vizlifeartcollection) 
+[View Collection](https://www.viz.life/the-straw-family/) 
 
 ### Most recent pieces added to the art collection
 Listed below are the newest pieces minted in my art collection for #082 - #113
