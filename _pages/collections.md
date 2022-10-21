@@ -6,7 +6,7 @@ image: '/images/banner_for_viz.jpg'
 ---
 
 # The Straw Family (newest collection)
-![](/images/art-collection/6.jpg) 
+![](/images/the-straw-family/43.jpg) 
 ## [View Collection](https://www.jpg.store/collection/thestrawfamily)
 
 # Art Collection
