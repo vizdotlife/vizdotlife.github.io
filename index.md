@@ -15,6 +15,18 @@ If you'd like to see my main art pieces listed for sale that aren't part of the 
 ### Most recent pieces added to the art collection
 Listed below are the newest pieces minted in my art collection for #082 - #113
 
+### Viz.Life Art 114 
+![](/images/art-collection/114.jpg) 
+
+### Viz.Life Art 115 
+![](/images/art-collection/115.jpg) 
+
+### Viz.Life Art 116 
+![](/images/art-collection/116.jpg) 
+
+### Viz.Life Art 117 
+![](/images/art-collection/117.jpg) 
+
 ### Viz.Life Art 082 
 ![](/images/art-collection/82.jpg) 
 
