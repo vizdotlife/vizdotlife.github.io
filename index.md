@@ -12,7 +12,7 @@ A new collection and series called "The Straw Family" has just launched on Carda
 
 ![](/images/the-straw-family/1.jpg) 
 
-You can view the collection [here.](https://www.jpg.store/collection/thestrawfamily) 
+You can view the collection [here.](https://www.viz.life/the-straw-family/) 
 
 ## Art collection pieces listed for sale
 If you'd like to see my main art pieces listed for sale that aren't part of the upcoming launch of "The Straw Family" you can seee them [here.](https://www.jpg.store/collection/vizlifeartcollection)
