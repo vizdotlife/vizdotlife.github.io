@@ -7,11 +7,6 @@ type: homepage
 
 Hi, I'm a Cardano based artist and photographer who enjoys exploring the world around me and creating art along the way. Lately I've been experimenting with generating AI art while the prompts and curation of each piece is done by me. It's been a lot of fun so far. 
 
-## Art collection pieces listed for sale
-If you'd like to see my main art pieces listed for sale that aren't part of the upcoming launch of "The Straw Family" you can seee them [here.](https://www.jpg.store/collection/vizlifeartcollection)
-
-[Collection listed on JPG.store](https://www.jpg.store/collection/vizlifeartcollection) 
-
 ### Most recent pieces added to the art collection
 Listed below are the newest pieces minted in my art collection for #082 - #113
 
