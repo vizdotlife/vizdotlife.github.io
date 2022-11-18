@@ -7,13 +7,6 @@ type: homepage
 
 Hi, I'm a Cardano based artist and photographer who enjoys exploring the world around me and creating art along the way. Lately I've been experimenting with generating AI art while the prompts and curation of each piece is done by me. It's been a lot of fun so far. 
 
-## "The Straw Family" has arrived on Cardano!
-A new collection and series called "The Straw Family" has just launched on Cardano. The first series is themed around Halloween and music for unique straw scarecrow characters. For most recent info and updates on the upcoming launch you can either hop into my [Discord server](https://discord.gg/H3pzcetN) or visit my [Twitter](https://twitter.com/vizdotlife). 
-
-![](/images/the-straw-family/1.jpg) 
-
-You can view the collection [here.](https://www.viz.life/the-straw-family/) 
-
 ## Art collection pieces listed for sale
 If you'd like to see my main art pieces listed for sale that aren't part of the upcoming launch of "The Straw Family" you can seee them [here.](https://www.jpg.store/collection/vizlifeartcollection)
 
