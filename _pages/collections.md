@@ -10,7 +10,7 @@ image: '/images/banner_for_viz.jpg'
 ## [View Collection](https://www.jpg.store/collection/thestrawfamily)
 
 # Art Collection
-![](/images/art-collection/6.jpg) 
+![](/images/art-collection/120800px.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifeartcollection)
 
 # Photography Collection
