@@ -37,7 +37,7 @@ If in the future my new limited collections get difficult for current holders to
 In turn that means 54 pieces will be listed for sale on JPG, while the other 6 will be given as gifts to existing holders.
 
 ## Will there be another series for this theme?
-Given I'm a free spirit and I love try and explore new ideas often, there will most likely not be a series 2 for this specific themed collection. 
+Given I'm a free spirit and I love to try and explore new ideas often, there will most likely not be a series 2 for this specific themed collection. 
 
 There are just too many more ideas I want to experiment with after this one that it would be difficult for me to stay focused that long. I hope you understand.
 
