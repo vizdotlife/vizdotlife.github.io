@@ -17,14 +17,19 @@ Please note the date and time could possibly change because there are a few thin
 This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, itetions, and curation. 
 
 ## How can we buy? 
-Given this has been a brutal year for so many I’ve decided the launch will simply be listing all pieces in the collection for sale on JPG so everyone can pick something they like. I want people to be happy with what they’re getting and tastes of everyone are totally different.
+I've decided to launch with simply listing all pieces for sale in the entire collection for sale on JPG so that everyone can pick something they like. 
 
-And I'm concerned with potential bot attacks right now even with WLs. 
+Given this has been a brutal year for so many, I want people to be happy with what they’re getting and tastes of everyone are totally different. And I'm also concerned with potential bot attacks right now even with WLs. 
 
-I'd love to give holders WL spots before launching to everyone, but I'm technically not there yet on my Discord server. If in the future my new limited collections get difficult for current holders to get one I'm keeping open the idea for building a WL for holders to have a first chance to get one if they want to. As of right now though I'm unable to do that. This will be a goal I will try to achieve in 2023. 
+I'd love to give holders WL spots before launching to everyone, but I'm technically not there yet on my Discord server. 
+
+If in the future my new limited collections get difficult for current holders to get one I'm keeping open the idea for building a WL for holders to have a first chance to get one if they want to. As of right now though I'm unable to do that. This will be a goal I will try to achieve in 2023. 
 
 ## What is the collection size?
 60 pieces in total for the entire collection, each of which will be a unique 1/1 piece. 
+
+## dd
+I'm going to be allocating 10% of the upcoming collection to existing holders of any of my collections as art gifts based on a list of random unique asset IDs across all my collections.
 
 ## Will there be a series 2 for this specific themed collection?
 Given I'm a free spirit and I love try and explore new ideas often, there will most likely not be a series 2 for this specific themed collection. There are just too many more ideas I want to experiment with after this one that it would be difficult for me to stay focused that long. I hope you understand.
