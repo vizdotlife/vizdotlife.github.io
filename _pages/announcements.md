@@ -2,7 +2,7 @@
 layout: page
 title:  
 permalink: /announcements/
-image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg'
+image: '/images/banner_new_collection.jpg'
 ---
 TBD...
 
