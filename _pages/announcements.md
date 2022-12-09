@@ -4,6 +4,7 @@ title:  Launch Details
 permalink: /announcements/
 image: '/images/banner_new_collection.jpg'
 ---
+This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, itetions, and curation.
 
 ## Wen?
 The plan is to launch on December 14th at 15:00:00 UTC. 
