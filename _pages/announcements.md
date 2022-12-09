@@ -15,7 +15,7 @@ Given this has been a brutal year for so many I’ve decided the launch will sim
 
 And I'm concerned with potential bot attacks right now even with WLs. 
 
-I'd love to give holders WL spots before launching to everyone, but I'm technically not there yet on my Discord server. If in the future my new limited collections get difficult for current holders to get one I'm keeping open the idea for building a WL for holders to have a first chance to get one if they want to. As of right now though I'm unable to do that.
+I'd love to give holders WL spots before launching to everyone, but I'm technically not there yet on my Discord server. If in the future my new limited collections get difficult for current holders to get one I'm keeping open the idea for building a WL for holders to have a first chance to get one if they want to. As of right now though I'm unable to do that. This will be a goal I will try to achieve in 2023. 
 
 ## How much? 
 75 ADA per piece
@@ -26,4 +26,20 @@ The entire collection will be a total of 60 pieces, each of which will be a uniq
 ## How was the art created?
 This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, itetions, and curation. 
 
-## Will there be a future series after this? 
+## Will there be a future series on this same collection after this? 
+Given I'm a free spirit and I love try and explore new ideas often, there will most likely not be a series 2 for this specific themed collection. There are just too many more ideas I want to experiment with after this one that it would be difficult for me to stay focused that long. I hope you understand.
+
+That being said, I absolutely love space, sci-fi, mysterious and unknown places. So I will definitely continue creating art in these areas, but it just won't be consistent with this theme. Please let me know if that doesn't make sense. 
+
+## What about other new collections in the future?
+Absolutely, yes! I most definitely want to continue creating new art collections in the future depending on demand of my art. But it will most likely be uniquely different than previous collections. This makes it more fun for me to keep creating. 
+
+## What would a future collection look like after this one?
+The only thing at this point I can share is I plan for all future collections to be 100 pieces or less. There might be times when a collection is only 20 pieces or it could be as upwards as 100. It depends on a lot of factors incuding maintaining consistency and quality throughout the entire collection, demand, etc. 
+
+
+
+
+
+
+
