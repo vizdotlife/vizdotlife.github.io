@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title:  Announcements
 permalink: /announcements/
 image: '/images/banner_new_collection.jpg'
 ---
