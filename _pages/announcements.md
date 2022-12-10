@@ -4,7 +4,7 @@ title:  Launch Details
 permalink: /announcements/
 image: '/images/banner_new_collection.jpg'
 ---
-This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, itetions, and curation.
+This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation.
 
 ## How much? 
 75 ADA per piece
