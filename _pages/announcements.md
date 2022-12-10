@@ -6,6 +6,9 @@ image: '/images/banner_new_collection.jpg'
 ---
 This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, itetions, and curation.
 
+## How much? 
+75 ADA per piece
+
 ## Wen?
 The plan is to launch on December 14th at 15:00:00 UTC. 
 
@@ -13,11 +16,8 @@ There is a chance this could be pushed to December 15th at the same time, but un
 
 I will to do my best to follow through with one of those dates and times. Ideally I want to launch on December 14th. 
 
-## How much? 
-75 ADA per piece
-
 ## How was the art created?
-This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, itetions, and curation. 
+This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation. 
 
 ## How can we buy? 
 I've decided to launch simply by listing all pieces for sale in the entire collection for sale on JPG so that everyone can pick something they like. 
