@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Launch Details
+title:  
 permalink: /announcements/
 image: '/images/banner_new_collection.jpg'
 ---
