@@ -51,9 +51,7 @@ That being said, I absolutely love space, sci-fi, mysterious and unknown places.
 Absolutely, yes! I most definitely want to continue creating new art collections in the future depending on demand of my art. But it will most likely be uniquely different than previous collections. This makes it more fun for me to keep creating. 
 
 ## What would a future collection look like after this one?
-The only thing I can say at this point is I plan for all future collection sizes to be 100 pieces or less, and be uniquely different than previous collections. 
-
-There might be times when a collection is only 20 pieces or it could be as upwards as 100. It depends on a lot of factors incuding trying my best to maintain consistency and quality throughout the entire collection, potential demand from buyers, etc. 
+The only thing I can say at this point is I plan for almost all future collection sizes to be 100 pieces or less, and be uniquely different than previous collections. There could be a few exceptions, but it depends on a lot of factors incuding trying my best to maintain consistency and quality throughout the entire collection, potential demand from buyers, etc. 
 
 
 
