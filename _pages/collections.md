@@ -13,7 +13,7 @@ image: '/images/banner_for_viz.jpg'
 ![](/images/art-collection/120800px.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifeartcollection)
 
-# The Straw Family (newest collection)
+# The Straw Family 
 ![](/images/the-straw-family/43.jpg) 
 ## [View Collection](https://www.jpg.store/collection/thestrawfamily)
 
