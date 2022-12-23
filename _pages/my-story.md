@@ -9,7 +9,7 @@ image: '/images/banner_for_viz.jpg'
 
 Twitter : [@VizDotLife](https://twitter.com/VizDotLife)  
 
-Discord : [https://discord.gg/p65rU793](https://discord.gg/UDTuX4BQ) 
+Discord : [https://discord.gg/p65rU793](https://discord.gg/syXKFHXxKN) 
 
 Website : [https://viz.life](https://www.viz.life/)
 
