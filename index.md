@@ -34,9 +34,6 @@ Listed below are the newest pieces minted in my art collection.
 ### Viz.Life Art 134 
 ![](/images/art-collection/134.jpg) 
 
-### Viz.Life Art 133 
-![](/images/art-collection/133-1.png) 
-
 ### Viz.Life Art 132 
 ![](/images/art-collection/132.jpg) 
 
