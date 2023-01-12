@@ -17,10 +17,11 @@ image: '/images/banner_for_viz.jpg'
 ![](/images/the-straw-family/43.jpg) 
 ## [View Collection](https://www.jpg.store/collection/thestrawfamily)
 
+# Dancing Sunflower Hybrids
+![](/images/dancing_sunflower.jpg) 
+## [View Collection](https://www.jpg.store/collection/vizlifedancingsunflowerhybrids)
+
 # Viz.Life Photos Collection
 ![](/images/photography/cnfts/VizDotLifePhotographySeriesOne0035resized_25.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifephotoscollection)
 
-# Dancing Sunflower Hybrids
-![](/images/dancing_sunflower.jpg) 
-## [View Collection](https://www.jpg.store/collection/vizlifedancingsunflowerhybrids)
