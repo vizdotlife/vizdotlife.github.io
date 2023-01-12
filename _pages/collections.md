@@ -2,7 +2,7 @@
 layout: page
 title:  Collections
 permalink: /collections/
-image: '/images/banner_for_viz.jpg'
+image: '/images/banner_v22.JPG'
 ---
 
 # Twilight
