@@ -5,7 +5,7 @@ permalink: /announcements/
 image: '/images/headers/banner-22.jpg'
 ---
 
-# Upcoming Collection
+## New Collection Launching Soon on Cardano!
 ![](/images/headers/banner-22.jpg) 
 
 ## Generative Art using AI
