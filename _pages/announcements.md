@@ -4,58 +4,63 @@ title:
 permalink: /announcements/
 image: '/images/banner_new_collection.jpg'
 ---
-This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation.
+
+I'm excited to share that the JPG team reached out to me in the first few days of January to ask if I'd like to be in their first ever beta platform for creators to launch collections and after careful review of the capabilities I've gladly accepted. 
+
+It's exciting because I'll be in their first ever beta program and batch of collections being launched on their new platform! 
+
+**A few capabilities include:**
+1) Breaking out the launch into multiple phases including a Holders Only mint and Public Mint, as well as allocating a small percent to be given as gifts to current holders. 
+
+2) Limits the chances of bots taking over a mint, which is one of my greatest concerns as an independent artist. The process will be very similar to how we purchase NFTs on JPG now except the buyer will be taken through a minting flow process. 
+
+As much as I wanted to structure my next mint like Twilight where buyers could pick which piece they like, I decided not to because I discovered there are now bots that can sweep floors of listed assets of a collection on JPG automatically in one transaction. And I fear that could be used for my next collection and be owned by a small percent of people. 
 
 # Upcoming Collection
 ![](/images/new_collection_10x6_.jpg) 
 
+## Generative Art using AI
+This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation.
+
 ## How much? 
-75 ADA per piece
+80 ADA per piece 
+
+There's a fee charged per mint with JPG and I'm trying to account for that in the minting price.
 
 ## Wen?
-The plan is to launch on December 14th at 15:00:00 UTC. 
-
-There is a chance this could be pushed to December 15th at the same time, but unlikely. I leave this option open due to a few factors outside of my control including getting my collection approved by JPG in advance of the launch.
-
-I will to do my best to follow through with one of those dates and times. Ideally I want to launch on December 14th. 
+Launch date is still TBD, but it's highly likely going to be way before February 28th, possibly in early February. Most of the decision is based on the collection size since more pieces will require more time to create. I'm trying to make pieces every day. 
 
 ## How was the art created?
 This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation. 
 
 ## How can we buy? 
-I've decided to launch simply by listing all pieces for sale in the entire collection for sale on JPG so that everyone can pick something they like. 
+The launch will be broken out into three phases broken out below.
 
-Given this has been a brutal year for so many, I want people to be happy with what they’re getting and tastes of everyone are totally different. 
+**Phase 1**
+The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any of my collections.
 
-Creators have the ability to hide a collection on JPG before launching and that's what I'm going to do. 
+**Viz Collections include:**
+- Viz.Life Art Collection
+- Twilight
+- The Straw Family
+- Viz.Life - Dancing Sunflower Hybrids
+- Viz.Life Photos Collection
 
-## Why isn't their a WL? 
-I'd love to give holders WL spots before releasing the collection to the public, but I'm technically not there yet on my Discord server. 
+The exact breakout between the Holders Only Mint versus Public Mint hasn't been decided yet, but I'm going to try my best to design the right structure. 
 
-If in the future my new limited collections get difficult for current holders to get one I'm keeping open the idea to build a WL for holders that give them a first chance to get any new collections I might release. As of right now though I'm unable to do that. This will be a goal I will try to achieve in 2023.  
+If there is any remaining supply that was allocated towards the Holders Only Mint it will be allocated to Phase 2, which is the Public Mint. 
+
+**Phase 2**
+The second phase will be a Public Mint where anyone can mint. 
+
+**Phase 3**
+The last phase will towards giving a small portion of the collection as thank you gifts to random holders based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
+
 ## What is the collection size?
-60 pieces in total for the entire collection, each of which will be a unique 1/1 piece. 
-
-10% of total collection supply (6 pieces) will be given as thank you gifts to current holders in a lottery process. The random lottery picks will be based on unique asset IDs across all my collections. 
-
-In turn that means 54 pieces will be listed for sale on JPG, while the other 6 will be given as gifts to existing holders.
+The total collection supply has not been decided yet, but it's most likely going to be in the range of 100-150 unique 1/1 piece. Having a little bit larger collection size might help give more new folks a chance to get a piece if they want one and also grow the unique collectors base. 
 
 ## Will there be another series for this theme?
-Given I'm a free spirit and I love to try and explore new ideas often, there will most likely not be a series 2 for this specific themed collection. 
-
-There are just too many more ideas I want to experiment with after this one that it would be difficult for me to stay focused that long. I hope you understand.
-
-That being said, I absolutely love space, sci-fi, mysterious and unknown places. So I will definitely continue creating art in these areas, but it just won't be consistent with this theme. Please let me know if that doesn't make sense. 
+Given I'm a free spirit and I love to try and explore new ideas often, there will most likely not be a series 2 for this specific themed collection, but I do plan to continue to perfect this style with new collections in the future with new ideas and themes. 
 
 ## What about other new collections in the future?
 Absolutely, yes! I most definitely want to continue creating new art collections in the future depending on demand of my art. But it will most likely be uniquely different than previous collections. This makes it more fun for me to keep creating. 
-
-## What would a future collection look like after this one?
-The only thing I can say at this point is I plan for almost all future collection sizes to be 100 pieces or less, and be uniquely different than previous collections. There could be a few exceptions, but it depends on a lot of factors incuding trying my best to maintain consistency and quality throughout the entire collection, potential demand from buyers, etc. 
-
-
-
-
-
-
-
