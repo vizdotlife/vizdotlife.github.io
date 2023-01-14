@@ -9,10 +9,9 @@ I'm excited to share that the JPG team reached out to me in the first few days o
 
 It's exciting because I'll be in their first ever beta program and batch of collections being launched on their new platform! 
 
-**A few capabilities include:**
-1) Breaking out the launch into multiple phases including a Holders Only mint and Public Mint, as well as allocating a small percent to be given as gifts to current holders. 
-
-2) Limits the chances of bots taking over a mint, which is one of my greatest concerns as an independent artist. The process will be very similar to how we purchase NFTs on JPG now except the buyer will be taken through a minting flow process. 
+## A few capabilities include:
+- Breaking out the launch into multiple phases including a Holders Only mint and Public Mint, as well as allocating a small percent to be given as gifts to current holders. 
+- Limits the chances of bots taking over a mint, which is one of my greatest concerns as an independent artist. The process will be very similar to how we purchase NFTs on JPG now except the buyer will be taken through a minting flow process. 
 
 As much as I wanted to structure my next mint like Twilight where buyers could pick which piece they like, I decided not to because I discovered there are now bots that can sweep floors of listed assets of a collection on JPG automatically in one transaction. And I fear that could be used for my next collection and be owned by a small percent of people. 
 
@@ -36,7 +35,7 @@ This is a generative art collection created using AI with Midjourney. That being
 ## How can we buy? 
 The launch will be broken out into three phases broken out below.
 
-**Phase 1:**
+## Phase 1
  The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any of my collections.
 
 **Viz Collections include:**
@@ -50,10 +49,10 @@ The exact breakout between the Holders Only Mint versus Public Mint hasn't been 
 
 If there is any remaining supply that was allocated towards the Holders Only Mint it will be allocated to Phase 2, which is the Public Mint. 
 
-**Phase 2:**
+## Phase 2
  The second phase will be a Public Mint where anyone can mint. 
 
-**Phase 3:**
+## Phase 3
  The last phase will towards giving a small portion of the collection as thank you gifts to random holders based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
 
 ## What is the collection size?
