@@ -26,7 +26,7 @@ This is a generative art collection created using AI with Midjourney. That being
 The launch will be broken out into three phases broken out below.
 
 ## Phase 1
- The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any of my collections. It's very important to note that assets listed on secondary marketplaces at the time of the snapshot will not be eligible for the Holders Only Mint phase. 
+ The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any Viz collection (listed below). It's very important to note that assets listed on secondary marketplaces at the time of the snapshot will not be eligible for the Holders Only Mint phase. 
 
 **Viz Collections include:**
 - [Viz.Life Art Collection](https://www.jpg.store/collection/vizlifeartcollection)
@@ -54,6 +54,8 @@ No, there is no requirement to join my Discord server to be eligible for tier 1 
 The total collection supply has not been decided yet, but it's most likely going to be in the range of 100-150 unique 1/1 piece. Having a little bit larger collection size might help give more new folks a chance to get a piece if they want one and also grow the unique collectors base. 
 
 ## What platform will this collection be launched on?
+[JPG.store](https://www.jpg.store/)
+
 I'm excited to share that the JPG team reached out to me in the first few days of January to ask if I'd like to be in their first ever beta platform for creators to launch collections and after careful review of the capabilities I've gladly accepted. 
 
 It's exciting because I'll be in their first ever beta program and batch of collections being launched on their new platform! 
