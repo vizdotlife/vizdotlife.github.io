@@ -36,8 +36,8 @@ This is a generative art collection created using AI with Midjourney. That being
 ## How can we buy? 
 The launch will be broken out into three phases broken out below.
 
-**Phase 1**
-The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any of my collections.
+**Phase 1:**
+ The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any of my collections.
 
 **Viz Collections include:**
 - Viz.Life Art Collection
@@ -50,11 +50,11 @@ The exact breakout between the Holders Only Mint versus Public Mint hasn't been 
 
 If there is any remaining supply that was allocated towards the Holders Only Mint it will be allocated to Phase 2, which is the Public Mint. 
 
-**Phase 2**
-The second phase will be a Public Mint where anyone can mint. 
+**Phase 2:**
+ The second phase will be a Public Mint where anyone can mint. 
 
-**Phase 3**
-The last phase will towards giving a small portion of the collection as thank you gifts to random holders based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
+**Phase 3:**
+ The last phase will towards giving a small portion of the collection as thank you gifts to random holders based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
 
 ## What is the collection size?
 The total collection supply has not been decided yet, but it's most likely going to be in the range of 100-150 unique 1/1 piece. Having a little bit larger collection size might help give more new folks a chance to get a piece if they want one and also grow the unique collectors base. 
