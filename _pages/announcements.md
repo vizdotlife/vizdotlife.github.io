@@ -40,7 +40,7 @@ The exact breakout between the Holders Only Mint versus Public Mint hasn't been 
 If there is any remaining supply that was allocated towards the Holders Only Mint it will be allocated to Phase 2, which is the Public Mint. 
 
 ### Will it be required to join the Discord server to be eligible for Phase 1? 
-No, there is no requirement to join my Discord server to be eligible for tier 1 but we'd be happy to have you. 
+No, there is no requirement to join my Discord server to be eligible for Phase 1 but we'd be happy to have you. 
 
 ## Phase 2: Public Mint
  The second phase will be a Public Mint where anyone can mint. 
