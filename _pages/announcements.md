@@ -2,7 +2,7 @@
 layout: page
 title:  
 permalink: /announcements/
-image: '/images/banners/banner-22.jpg'
+image: '/images/headers/banner-22.jpg'
 ---
 
 I'm excited to share that the JPG team reached out to me in the first few days of January to ask if I'd like to be in their first ever beta platform for creators to launch collections and after careful review of the capabilities I've gladly accepted. 
@@ -17,7 +17,7 @@ It's exciting because I'll be in their first ever beta program and batch of coll
 As much as I wanted to structure my next mint like Twilight where buyers could pick which piece they like, I decided not to because I discovered there are now bots that can sweep floors of listed assets of a collection on JPG automatically in one transaction. And I fear that could be used for my next collection and be owned by a small percent of people. 
 
 # Upcoming Collection
-![](/images/banners/banner-22.jpg) 
+![](/images/headers/banner-22.jpg) 
 
 ## Generative Art using AI
 This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation.
