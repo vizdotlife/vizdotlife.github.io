@@ -25,7 +25,7 @@ This is a generative art collection created using AI with Midjourney. That being
 ## How can we buy? 
 The launch will be broken out into three phases broken out below.
 
-## Phase 1
+## Phase 1: Holders Only Mint
  The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any Viz collection (listed below). It's very important to note that assets listed on secondary marketplaces at the time of the snapshot will not be eligible for the Holders Only Mint phase. 
 
 **Viz Collections include:**
@@ -42,11 +42,11 @@ If there is any remaining supply that was allocated towards the Holders Only Min
 ### Will it be required to join the Discord server to be eligible for Phase 1? 
 No, there is no requirement to join my Discord server to be eligible for tier 1 but we'd be happy to have you. 
 
-## Phase 2
+## Phase 2: Public Mint
  The second phase will be a Public Mint where anyone can mint. 
 
-## Phase 3
- The last phase will towards giving a small portion of the collection as thank you gifts to random holders based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
+## Phase 3: Thank You Gifts 
+ The last phase will be focused on giving a small portion of the new collection as thank you gifts to random holders who qualify to be a part of Phase 1 for the Holders Only Mint. Random picks are based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
  
  Important to note that assets listed on secondary marketplaces will not be eligible for the lottery process in Phase 3. 
 
