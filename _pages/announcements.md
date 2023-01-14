@@ -46,7 +46,9 @@ No, there is no requirement to join my Discord server to be eligible for tier 1 
  The second phase will be a Public Mint where anyone can mint. 
 
 ## Phase 3: Thank You Gifts 
- The last phase will be focused on giving a small portion of the new collection as thank you gifts to random holders who qualify to be a part of Phase 1 for the Holders Only Mint. Random picks are based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
+ All holders who qualify to be a part of Phase 1 for the Holders Only Mint will be included in this last phase that's focused on giving a small portion of the new collection as thank you gifts to random holders who qualify to be a part of Phase 1 for the Holders Only Mint. 
+
+Random picks are based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
  
  Important to note that assets listed on secondary marketplaces will not be eligible for the lottery process in Phase 3. 
 
