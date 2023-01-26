@@ -17,7 +17,7 @@ This is a generative art collection created using AI with Midjourney. That being
 There's a fee charged per mint with JPG and I'm trying to account for that in the minting price.
 
 ## Wen?
-Please know in advance that the official launch date could change, but right now I'm planning for the following:
+Please know in advance that the official launch date could change due to unexpected scenarios outside of my control, but I'm planning for the following:
 
 Feb. 11th - Holders Only Mint (UTC time not set yet)  
 
