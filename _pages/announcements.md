@@ -14,7 +14,7 @@ This is a generative art collection created using AI with Midjourney. That being
 ## How much? 
 80 ADA per piece 
 
-There's a fee charged per mint with JPG and I'm trying to account for that in the minting price.
+There's a fee charged per mint when using JPG's new launch tool in beta and minting platform, and I'm trying to account for that in the minting price.
 
 ## Wen?
 Please know in advance that the official launch date could change due to unexpected scenarios outside of my control, but I'm planning for the following:
