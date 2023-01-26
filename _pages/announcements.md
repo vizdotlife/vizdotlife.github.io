@@ -17,7 +17,10 @@ This is a generative art collection created using AI with Midjourney. That being
 There's a fee charged per mint with JPG and I'm trying to account for that in the minting price.
 
 ## Wen?
-Launch date is still TBD, but it's highly likely going to be way before February 28th, possibly in early February. Most of the decision is based on the collection size since more pieces will require more time to create. I'm trying to make pieces every day. 
+Please know in advance that the official launch date could change, but right now I'm planning for the following:
+
+Feb. 11th - Holders Only Mint (UTC time not set yet)
+Feb. 12th - Public Mint (UTC time not set yet)
 
 ## How was the art created?
 This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation. 
