@@ -6,7 +6,7 @@ image: '/images/headers/banner-22.jpg'
 ---
 
 ## New Collection Launching Soon on Cardano!
-![](/images/dawn-to-dusk-part-full-100-collection.jpg) 
+![](/images/dawn-to-dusk-part-full-100-v3.jpg) 
 
 ## Generative Art using AI
 This is a generative art collection created using AI with Midjourney. That being said I still spent a great deal of time crafting countless prompts, iterations, and curation.
