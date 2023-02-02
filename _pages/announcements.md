@@ -57,7 +57,7 @@ Random picks are based on unique asset IDs across all my collections just like l
  Important to note that assets listed on secondary marketplaces will not be eligible for the lottery process in Phase 3. 
 
 ## What is the collection size?
-The total collection supply has not been decided yet, but it's most likely going to be in the range of 100-150 unique 1/1 piece. Having a little bit larger collection size might help give more new folks a chance to get a piece if they want one and also grow the unique collectors base. 
+100 unique 1/1 pieces in the entire collection.
 
 ## What platform will this collection be launched on?
 [JPG.store](https://www.jpg.store/)
