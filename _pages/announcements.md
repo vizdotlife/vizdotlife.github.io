@@ -83,4 +83,14 @@ Given I'm a free spirit and I love to try and explore new ideas often, there wil
 ## What about other new collections in the future?
 Absolutely, yes! I most definitely want to continue creating new art collections in the future depending on demand of my art. But it will most likely be uniquely different than previous collections. This makes it more fun for me to keep creating. 
 
+## Recent launch updates 
+Hi everyone, 
+
+First off let me first say that we’re still on track for both launch dates and times for my upcoming collection! 
+
+That being said there’s been a change in the launch design due to unexpected news yesterday. JPG is postponing collection mints using their new collection minting platform that’s still in beta due to some possible security risks and stability issues that were discovered this weekend. I think it was a good decision on their part to do so. 
+
+The issues are going to be fixed, but there’s no certainty on when that will be. The JPG team has been incredibly helpful and kind to me during the entire beta phase for several weeks now and I respect what they’re building. It’s pretty amazing! But, I need to keep pushing forward with the collection. 
+
+Not to worry, I do indeed have a Plan B and we’re still on track.
 
