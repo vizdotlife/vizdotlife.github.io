@@ -35,7 +35,15 @@ The launch will be broken out into three phases broken out below.
 6 giveaways
 
 ## Phase 1: Holders Only Mint
- The first phase is a Holders Only Mint that will last 24 hours. This will be for collectors who hold at least one piece in any Viz collection (listed below). 
+The first phase is a Holders Only Mint that will last 24 hours. No snapshot is needed. In real-time it will check if you hold a Viz asset in the wallet minting a piece.
+
+Max 3 NFTs per wallet 
+Max 1 NFT per transaction 
+Max supply of 50 NFTs in the Holders Only Mint phase 
+
+Any remaining supplly will be allocated towards the Public Mint. 
+ 
+This will be for collectors who hold at least one piece in any Viz collection (listed below). 
 
 **Viz Collections include:**
 - [Viz.Life Art Collection](https://www.jpg.store/collection/vizlifeartcollection)
@@ -43,14 +51,6 @@ The launch will be broken out into three phases broken out below.
 - [The Straw Family](https://www.jpg.store/collection/thestrawfamily)
 - [Viz.Life - Dancing Sunflower Hybrids](https://www.jpg.store/collection/vizlifedancingsunflowerhybrids)
 - [Viz.Life Photos Collection](https://www.jpg.store/collection/vizlifephotoscollection)
-
-No snapshot is needed. In real-time it will check if you hold a Viz asset in the wallet minting a piece.
-
-Max 3 NFTs per wallet
-Max 1 NFT per transaction
-Max supply of 50 NFTs in the Holders Only Mint phase. Whatever isn’t minted will be rolled over to the public launch.
-
-If there is any remaining supply that was allocated towards the Holders Only Mint it will be allocated to Phase 2, which is the Public Mint. 
 
 ### Will it be required to join the Discord server to be eligible for Phase 1? 
 No, there is no requirement to join my Discord server to be eligible for Phase 1 but we'd be happy to have you. 
