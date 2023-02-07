@@ -58,24 +58,14 @@ No, there is no requirement to join my Discord server to be eligible for Phase 1
 ## Phase 2: Public Mint
 The remaining supply will be listed on JPG for collectors to choose which one they like, excluding the 6 giveaway pieces. 
 
+[JPG.store](https://www.jpg.store/)
+
 ## Phase 3: Thank You Gifts 
  All holders who qualify to be a part of Phase 1 for the Holders Only Mint will be included in this last phase that's focused on giving a small portion of the new collection as thank you gifts to random holders who qualify to be a part of Phase 1 for the Holders Only Mint. 
 
 Random picks are based on unique asset IDs across all my collections just like last time, but the final number hasn't been decided yet.
  
 Important to note that assets listed on secondary marketplaces will not be eligible for the lottery process in Phase 3. 
-
-## What is the collection size?
-100 unique 1/1 pieces in the entire collection.
-
-## What platform will this collection be launched on?
-[JPG.store](https://www.jpg.store/)
-
-I'm excited to share that the JPG team reached out to me in the first few days of January to ask if I'd like to be in their first ever beta platform for creators to launch collections and after careful review of the capabilities I've gladly accepted. 
-
-It's exciting because I'll be in their first ever beta program and batch of collections being launched on their new platform! 
-
-As much as I wanted to structure my next mint like Twilight where buyers could pick which piece they like, I decided not to because I discovered there are now bots that can sweep floors of listed assets of a collection on JPG automatically in one transaction. And I fear that could be used for my next collection and be owned by a small percent of people. 
 
 ## Will there be another series for this theme?
 Given I'm a free spirit and I love to try and explore new ideas often, there will most likely not be a series 2 for this specific themed collection, but I do plan to continue to perfect this style with new collections in the future with new ideas and themes. 
