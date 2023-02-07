@@ -10,6 +10,18 @@ Hi, I'm a Cardano based artist and photographer who enjoys exploring the world a
 ### Most recent pieces added to the art collection
 Listed below are the newest pieces minted in my art collection.
 
+### Viz.Life Art 145 
+![](/images/art-collection/145.jpg) 
+
+### Viz.Life Art 144 
+![](/images/art-collection/144.jpg) 
+
+### Viz.Life Art 143 
+![](/images/art-collection/143.jpg) 
+
+### Viz.Life Art 142 
+![](/images/art-collection/142.jpg) 
+
 ### Viz.Life Art 141 
 ![](/images/art-collection/141.jpg) 
 
