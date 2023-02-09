@@ -31,11 +31,11 @@ The launch will be broken out into three phases broken out below.
 100 pieces in total, each of which are unique 1/1s
 
 50 supply to existing holders (whatever isn't minted rolls over to public)
-44 public mint
+44 public mint 
 6 giveaways
 
 ## Phase 1: Holders Only Mint
-The first phase is a Holders Only Mint that will last 24 hours. No snapshot is needed. In real-time it will check if you hold a Viz asset in the wallet minting a piece.
+The first phase is a Holders Only Mint that will last 21 hours. No snapshot is needed. In real-time it will check if you hold a Viz asset in the wallet minting a piece.
 
 Max 3 NFTs per wallet 
 Max 1 NFT per transaction 
