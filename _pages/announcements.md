@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Announcements
-permalink: /announcements/
+title:  
+permalink: /tbd/
 image: '/images/headers/banner-22.jpg'
 ---
 
