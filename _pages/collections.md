@@ -21,7 +21,7 @@ image: '/images/banner_223.jpg'
 ![](/images/the-straw-family/43.jpg) 
 ## [View Collection](https://www.jpg.store/collection/thestrawfamily)
 
-# Dancing Sunflower Hybrids (Pre-Alonzo collection and policy locked || 45 pieces)
+# Dancing Sunflower Hybrids (Pre-Alonzo || 45 pieces)
 ![](/images/dancing_sunflower.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifedancingsunflowerhybrids)
 
