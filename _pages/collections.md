@@ -2,7 +2,7 @@
 layout: page
 title:  Collections
 permalink: /collections/
-image: '/images/banner_223.jpg'
+image: '/images/IMG_3509.JPG'
 ---
 
 # Dusk to Dawn (Sold Out || 100 pieces)
