@@ -1,7 +1,7 @@
 ---
 title: 
 permalink: index.html
-image: '/images/banner_for_viz.jpg'
+image: '/images/IMG_3509.JPG'
 type: homepage
 ---
 
