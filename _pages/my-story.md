@@ -7,10 +7,6 @@ image: '/images/banner_for_viz.jpg'
 
 **Feel free to hop on over to my Twitter or Discord server in the links below. **
 
-Twitter : [@VizDotLife](https://twitter.com/VizDotLife)  
-
-Discord : [https://discord.gg/p65rU793](https://discord.gg/syXKFHXxKN) 
-
 Website : [https://viz.life](https://www.viz.life/)
 
 Well, to put it simply Viz.Life is a place where I can share with the world what I'm working on, which is mostly creating art, photography, and experimenting with new ideas. 
