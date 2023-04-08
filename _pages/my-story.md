@@ -12,3 +12,6 @@ My name is Troy and I'm a Cardano based digital artist that greatly enjoys creat
 Part of the enjoyment I have in creating art is the ability to not be restricted from trying new ideas and that is why you see many different art styles and colors in the collection. 
 
 I'm forever grateful for the support from collectors, followers, family, and friends along this journey. 
+
+Feel free to reach out to me on Twitter. 
+Twitter : [@VizDotLife](https://twitter.com/VizDotLife)  
