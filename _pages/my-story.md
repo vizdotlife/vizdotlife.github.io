@@ -13,5 +13,6 @@ Part of the enjoyment I have in creating art is the ability to not be restricted
 
 I'm forever grateful for the support from collectors, followers, family, and friends along this journey. 
 
-Feel free to reach out to me on Twitter. 
+Feel free to reach out to me on Twitter.  
+
 Twitter : [@VizDotLife](https://twitter.com/VizDotLife)  
