@@ -2,7 +2,7 @@
 # Site Settings
 title: Viz.Life
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Cardano based artist.
+description: AI artist and animator.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.viz.life" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,7 +12,7 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 # Author Settings
 author:
   author__name: Troy
-  author__bio: A Cardano based photographer and artist inspired by what's around me and taking snapshots of moments in time.
+  author__bio: AI artist, animator, and photographer inspired by what's around me and taking snapshots of moments in time.
   author__avatar: '/images/profile_3.jpg'
 
 social:
@@ -26,7 +26,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Troy
-  hero__description: Cardano based artist inspired by photography and capturing snapshots in time around me.
+  hero__description: AI artist, animator and photographer inspired by what's around me and taking snapshots of moments in time
   hero__image: '/images/profile_3.jpg'
 
 
