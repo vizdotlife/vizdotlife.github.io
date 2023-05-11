@@ -12,7 +12,7 @@ DuskToDawn: -AtzdaSUrvg
 image: '/images/sleek-dreams-header.jpg'
 ---
 
-Here's a compilation of videos created on my new YouTube channel. 
+I hope you enjoy some of my new short animations and art collection compilations. More to come soon!
 
 {% include youtubePlayer.html id=page.SleekDreams %}
 
