@@ -2,8 +2,8 @@
 layout: page
 title: Videos
 permalink: /videos/
-image: '/images/sleek-dreams-header.jpg'
 youtubeId: QYVLiAo7mmQ
+image: '/images/sleek-dreams-header.jpg'
 ---
 
 Short video animations coming soon...
