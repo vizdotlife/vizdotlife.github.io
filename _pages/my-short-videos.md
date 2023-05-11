@@ -6,6 +6,6 @@ image: '/images/sleek-dreams-header.jpg'
 youtubeId: QYVLiAo7mmQ
 ---
 
-Coming soon...
+Short video animations coming soon...
 
 {% include youtubePlayer.html id=page.youtubeId %}
