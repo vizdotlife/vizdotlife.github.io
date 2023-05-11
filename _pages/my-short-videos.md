@@ -14,16 +14,16 @@ image: '/images/sleek-dreams-header.jpg'
 
 I hope you enjoy some of my new short animations and art collection compilations. More to come soon!
 
-{% include youtubePlayer.html id=page.SleekDreams %}
+{% include youtubePlayer.html id=page.SleekDreams %} 
 
-{% include youtubePlayer.html id=page.SecretSpot %}
+{% include youtubePlayer.html id=page.SecretSpot %} 
 
-{% include youtubePlayer.html id=page.Twilight %}
+{% include youtubePlayer.html id=page.Twilight %} 
 
-{% include youtubePlayer.html id=page.DuskToDawn %}
+{% include youtubePlayer.html id=page.DuskToDawn %} 
 
-{% include youtubePlayer.html id=page.LittleDistrict %}
+{% include youtubePlayer.html id=page.LittleDistrict %} 
 
-{% include youtubePlayer.html id=page.BeyondHorizon %}
+{% include youtubePlayer.html id=page.BeyondHorizon %} 
 
-{% include youtubePlayer.html id=page.FoggyNight %}
+{% include youtubePlayer.html id=page.FoggyNight %} 
