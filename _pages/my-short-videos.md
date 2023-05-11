@@ -15,11 +15,11 @@ image: '/images/sleek-dreams-header.jpg'
 I hope you enjoy some of my new short animations and art collection compilations. More to come soon!
 
 ### Sleek Dreams || Short Animation
-{% include youtubePlayer.html id=page.SleekDreams %}\
+{% include youtubePlayer.html id=page.SleekDreams %}
 \
 
 ### Secreate Spot || Short Animation
-{% include youtubePlayer.html id=page.SecretSpot %}\
+{% include youtubePlayer.html id=page.SecretSpot %}
 \
 
 ### Twilight || Art Collection of 60 pieces
