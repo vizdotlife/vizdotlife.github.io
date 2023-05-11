@@ -16,21 +16,22 @@ I hope you enjoy some of my new short animations and art collection compilations
 
 ### Sleek Dreams || Short Animation
 {% include youtubePlayer.html id=page.SleekDreams %}  
-
+  
 ### Secreate Spot || Short Animation
 {% include youtubePlayer.html id=page.SecretSpot %}  
-
+  
 ### Twilight || Art Collection of 60 pieces
 {% include youtubePlayer.html id=page.Twilight %}  
-
+  
 ### Dusk to Dawn || Art Collection of 100 pieces
 {% include youtubePlayer.html id=page.DuskToDawn %}  
-
+  
 ### Little District || Art Collection of 50 pieces
 {% include youtubePlayer.html id=page.LittleDistrict %}  
-
+  
 ### Beyond Horizon || Short Animation
 {% include youtubePlayer.html id=page.BeyondHorizon %}  
-
+  
 ### Foggy Night || Short Animation
 {% include youtubePlayer.html id=page.FoggyNight %}  
+  
