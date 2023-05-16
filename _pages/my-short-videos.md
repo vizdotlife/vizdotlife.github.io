@@ -17,7 +17,7 @@ I hope you enjoy some of my new short animations and art collection compilations
 ### Sleek Dreams || Short Animation
 {% include youtubePlayer.html id=page.SleekDreams %}  
   
-### Secreate Spot || Short Animation
+### Secret Spot || Short Animation
 {% include youtubePlayer.html id=page.SecretSpot %}  
   
 ### Twilight || Art Collection of 60 pieces
