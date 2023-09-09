@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  3D
+title:  Blender
 permalink: /3d/
 image: ''
 ---
