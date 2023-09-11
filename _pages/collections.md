@@ -5,7 +5,7 @@ permalink: /collections/
 image: '/images/IMG_3509.JPG'
 ---
 
-# Little District (Minting Live! || 50 pieces)
+# Little District (30 pieces)
 ![](/images/little-district-live.jpg)
 ## [View Collection](https://www.jpg.store/collection/littledistrict) 
 
