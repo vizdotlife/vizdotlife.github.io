@@ -17,7 +17,7 @@ image: '/images/IMG_3509.JPG'
 ![](/images/new_collection_10x6_.jpg) 
 ## [View Collection](https://www.jpg.store/collection/twilight)
 
-# Viz.Life Art Collection (Ongoing until the policy locks on 8/2/2023)
+# Viz.Life Art Collection (90 pieces)
 ![](/images/art-collection/120800px.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifeartcollection)
 
