@@ -4,19 +4,19 @@ title:  Collections
 permalink: /collections/
 image: '/images/IMG_3509.JPG'
 ---
-# Twilight (Sold Out || 60 pieces)
+# Twilight (Sold Out || 60 pieces || December 2022)
 ![](/images/new_collection_10x6_.jpg) 
 ## [View Collection](https://www.jpg.store/collection/twilight)
 
-# Dusk to Dawn (Sold Out || 100 pieces)
+# Dusk to Dawn (Sold Out || 100 pieces || Febraury 2023)
 ![](/images/10x10-dusk-to-dawn.jpg) 
 ## [View Collection](https://www.jpg.store/collection/dusktodawn) 
 
-# The Straw Family (100 pieces)
+# The Straw Family (100 pieces || October 2022)
 ![](/images/the-straw-family/43.jpg) 
 ## [View Collection](https://www.jpg.store/collection/thestrawfamily)
 
-# Little District (30 pieces)
+# Little District (30 pieces || May 2023)
 ![](/images/little-district-live.jpg)
 ## [View Collection](https://www.jpg.store/collection/littledistrict) 
 
