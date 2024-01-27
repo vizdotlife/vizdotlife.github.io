@@ -24,11 +24,11 @@ image: '/images/IMG_3509.JPG'
 ![](/images/art-collection/120800px.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifeartcollection)
 
-# Viz.Life Photos Collection (Ongoing until the policy locks on 8/1/2023)
+# Viz.Life Photos Collection (83 Pieces || August 2022)
 ![](/images/photography/cnfts/VizDotLifePhotographySeriesOne0035resized_25.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifephotoscollection)
 
-# Dancing Sunflower Hybrids (Pre-Alonzo || 45 pieces)
+# Dancing Sunflower Hybrids (Pre-Alonzo || 45 pieces || June 2021)
 ![](/images/dancing_sunflower.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizlifedancingsunflowerhybrids)
 
