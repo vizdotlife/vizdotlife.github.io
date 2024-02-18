@@ -5,8 +5,8 @@ permalink: /collections/
 image: '/images/IMG_3509.JPG'
 ---
 # Spike (Live! 15 pieces || February 2024)
-![](/images/the-straw-family/43.jpg) 
-## [View Collection](https://www.jpg.store/collection/thestrawfamily)
+![](/images/spike.jpg) 
+## [View Collection](https://www.jpg.store/collection/spike)
 
 # The Straw Family (100 pieces || October 2022)
 ![](/images/the-straw-family/43.jpg) 
