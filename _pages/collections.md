@@ -4,7 +4,7 @@ title:  Collections
 permalink: /collections/
 image: '/images/IMG_3509.JPG'
 ---
-# Spike (Live! 15 pieces || February 2024)
+# Spike (15 pieces || February 2024)
 ![](/images/spike.jpg) 
 ## [View Collection](https://www.jpg.store/collection/spike)
 
