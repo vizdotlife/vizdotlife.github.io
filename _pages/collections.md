@@ -6,8 +6,8 @@ image: '/images/IMG_3509.JPG'
 ---
 
 # Viz Animations S1 (New collection || Ongoing until Feb. 2nd, 2025)
-![](/images/spike.jpg) 
-## [View Collection](https://www.jpg.store/collection/spike)
+![](/images/rush-hour.jpg) 
+## [View Collection](https://www.jpg.store/collection/vizanimationss1)
 
 # Spike (10 pieces || February 2024)
 ![](/images/spike.jpg) 
