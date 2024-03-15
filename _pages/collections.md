@@ -5,6 +5,10 @@ permalink: /collections/
 image: '/images/IMG_3509.JPG'
 ---
 
+# Twilight Series 2 (S2) (10 pieces || March 2024)
+![](/images/rush-hour.jpg) 
+## [View Collection](https://www.jpg.store/collection/twilight-s2)
+
 # Viz Animations S1 (New collection || Ongoing until Feb. 2nd, 2025)
 ![](/images/rush-hour.jpg) 
 ## [View Collection](https://www.jpg.store/collection/vizanimationss1)
