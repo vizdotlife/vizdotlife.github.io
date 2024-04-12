@@ -10,6 +10,9 @@ BeyondHorizon: ReIf0vvbR40
 FoggyNight: EkKvmmKqB8U
 DuskToDawn: -AtzdaSUrvg
 Abstract5: RQsVeUefZFI
+Abstract4: 5-8TXgo5xmg
+Abstract3: pGWMDImglOk
+Abstract1: dDAs-kMdCAY
 image: '/images/banner-6-50pct.jpg'
 ---
 
@@ -18,21 +21,11 @@ I hope you enjoy some of my new short animations and art collection compilations
 ### Abstract Animation #5 || Short Animation
 {% include youtubePlayer.html id=page.Abstract5 %}  
   
-### Secret Spot || Short Animation
-{% include youtubePlayer.html id=page.SecretSpot %}  
+### Abstract Animation #4 || Short Animation
+{% include youtubePlayer.html id=page.Abstract5 %}  
   
-### Twilight || Art Collection of 60 pieces
-{% include youtubePlayer.html id=page.Twilight %}  
+### Abstract Animation #3 || Short Animation
+{% include youtubePlayer.html id=page.Abstract5 %}  
   
-### Dusk to Dawn || Art Collection of 100 pieces
-{% include youtubePlayer.html id=page.DuskToDawn %}  
-  
-### Little District || Art Collection of 50 pieces
-{% include youtubePlayer.html id=page.LittleDistrict %}  
-  
-### Beyond Horizon || Short Animation
-{% include youtubePlayer.html id=page.BeyondHorizon %}  
-  
-### Foggy Night || Short Animation
-{% include youtubePlayer.html id=page.FoggyNight %}  
-  
+### Abstract Animation #2 || Short Animation
+{% include youtubePlayer.html id=page.Abstract5 %}  
