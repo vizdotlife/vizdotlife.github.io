@@ -9,7 +9,7 @@ LittleDistrict: 7wFxRhmvlXQ
 BeyondHorizon: ReIf0vvbR40
 FoggyNight: EkKvmmKqB8U
 DuskToDawn: -AtzdaSUrvg
-image: '/images/sleek-dreams-header.jpg'
+image: '/images/banner-6.jpg'
 ---
 
 I hope you enjoy some of my new short animations and art collection compilations. More to come soon!
