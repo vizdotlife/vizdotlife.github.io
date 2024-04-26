@@ -2,7 +2,7 @@
 # Site Settings
 title: Viz Life Studio
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Motion Designer.
+description: Motion design studio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.viz.life" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,7 +12,7 @@ color_scheme: light # You can choose three modes auto, light, and dark. By defau
 # Author Settings
 author:
   author__name: Troy
-  author__bio: Aspiring motion designer and trying new tools along the way.
+  author__bio: Motion design studio focused on line art animations.
   author__avatar: '/images/profile-abstract.jpg'
 
 social:
@@ -26,7 +26,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Troy
-  hero__description: Aspiring motion designer and trying new tools along the way.
+  hero__description: Motion design studio focused on line art animations.
   hero__image: '/images/profile-abstract.jpg'
 
 
