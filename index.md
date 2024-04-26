@@ -1,7 +1,7 @@
 ---
 title: 
 permalink: index.html
-image: '/images/6046.jpg'
+image: '/images/headers/line-art-animation.png'
 type: homepage
 ---
 
