@@ -1,6 +1,7 @@
 ---
 title: 
 permalink: index.html
+Abstract8: vHHvRzTup4s
 Abstract7: uqrB5x4Mog0
 Abstract6: LHr4Lhxz_wc
 Abstract5: RQsVeUefZFI
@@ -12,6 +13,9 @@ type: homepage
 ---
 
 I hope you enjoy some of my new short animations and art collection compilations. More to come soon!
+
+### Abstract Animation #8 || Short Animation
+{% include youtubePlayer.html id=page.Abstract8 %}  
 
 ### Abstract Animation #7 || Short Animation
 {% include youtubePlayer.html id=page.Abstract7 %}  
