@@ -5,6 +5,8 @@ permalink: /about/
 image: '/images/headers/167-v2.jpg'
 ---
 
-Viz Life Studio is an aspiring motion design studio focused on designing kinetic sculptures in 3D, abstract art, and line art animations.  
+Nice to meet you. My name is Troy and I'm an independent videographer, photographer, artist, and motion designer. And Viz Life Studio is where I get to share all these projects with the world. 
 
-Twitter : [@VizDotLife](https://twitter.com/VizDotLife)  
+For the longest time I was trying to pick a niche to focus on, but I realized that it's totally fine to be passionate and interested in so many different areas. And that's what you'll see here. 
+
+I've embraced the journey and learning new things everyday. 
