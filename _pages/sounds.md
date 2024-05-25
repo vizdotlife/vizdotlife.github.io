@@ -1,9 +1,7 @@
 ---
-title: Unique Sounds of San Francisco
-subtitle: San Francisco is quite a unique place, however most people probaby don't think about sounds like fog horns playing on Golden Gate Bridge or a cable car ride. I thought recording sounds might be an unusual way to share about life here in the city.
-date: 2018-07-30 00:00:00
-description: Sounds of San Francisco.
-featured_image: /images/charts/fog-horns-chart-1.png
+layout: page
+title: Sounds
+permalink: /sounds/
 ---
 
 <iframe src="https://player.vimeo.com/video/344009812" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
