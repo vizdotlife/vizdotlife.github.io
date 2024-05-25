@@ -16,7 +16,15 @@ Abstract1: dDAs-kMdCAY
 image: '/images/banner-6-50pct.jpg'
 ---
 
-I hope you enjoy some of my new short animations and art collection compilations. More to come soon!
+I've separated my videos into two separate YouTube channels to share, one of which is my random adventures in the outdoors, nature, travels, and unique sounds. While the other is focused on motion design animations that I create in Blender.
+
+It would be fantastic if you'd support me in both channels. I'm adding new content frequently. 
+
+### Life Adventures and Random Clips
+https://www.youtube.com/channel/UCdFnymBTeknluilz_4e6MnA
+
+### Motion Design Animations
+https://www.youtube.com/channel/UCo3sK3dM1Rjya6eQ13zFR7g
 
 ### Abstract Animation #5 || Short Animation
 {% include youtubePlayer.html id=page.Abstract5 %}  
