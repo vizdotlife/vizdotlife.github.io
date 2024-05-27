@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/headers/167-v2.jpg'
+image: '/images/headers/squash.jpeg'
 ---
 
 Nice to meet you. My name is Troy and I'm an independent artist, photographer, videographer, and motion designer. I also enjoy recording unique sounds. 
