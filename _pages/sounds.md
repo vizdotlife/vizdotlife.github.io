@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sounds
+title: 
 permalink: /sounds/
 ---
 
