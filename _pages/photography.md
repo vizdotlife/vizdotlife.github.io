@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  
+title:  Photography
 permalink: /photography/
-image: '/images/photography/cnfts/VizDotLifePhotographySeriesOne0001resized_25.jpg'
+image: '/images/'
 ---
 TBD...
 
