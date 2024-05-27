@@ -18,7 +18,7 @@ image: '/images/banner-6-50pct.jpg'
 
 I've separated my videos into two separate YouTube channels to share, one of which is my random adventures in the outdoors, nature, travels, and unique sounds. While the other is focused on motion design animations that I create in Blender.
 
-It would be fantastic if you'd support me in both channels. I'm adding new content frequently. 
+Content in both channels are being added on a regular basis.
 
 ### Life Adventures and Random Clips
 https://www.youtube.com/channel/UCdFnymBTeknluilz_4e6MnA
