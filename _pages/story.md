@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 image: '/images/headers/squash.jpg'
 ---
-
 Nice to meet you. My name is Troy and I'm an independent artist, photographer, videographer, and motion designer. I also enjoy recording unique sounds. 
 
 And Viz Life Studio is where I get to share all these projects with the world. 
