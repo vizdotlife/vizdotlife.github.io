@@ -9,36 +9,120 @@ permalink: /filters/
 Below is documentation on each filter. 
 
 
-[anaglyph_3d](#anaglyph_3d) | [annotations_yolov8](#annotations_yolov8) | [ascii_art](#ascii_art)  
-[background_removal_kmeans](#background_removal_kmeans) | [bg_removal_grabcut](#bg_removal_grabcut) | [bg_removal_human](#bg_removal_human)  
-[bilateral](#bilateral) | [blueprint](#blueprint) | [blur](#blur)  
-[canny_edge_detection](#canny_edge_detection) | [cartoon](#cartoon) | [charcoal_sketch](#charcoal_sketch)  
-[chrome](#chrome) | [color_histogram](#color_histogram) | [color_palette](#color_palette)  
-[color_palette_layover](#color_palette_layover) | [color_quantization](#color_quantization) | [contains_text](#contains_text)  
-[contour](#contour) | [crystallize](#crystallize) | [cutout_circle](#cutout_circle)  
-[cutout_diamond](#cutout_diamond) | [cutout_heart](#cutout_heart) | [cutout_hexagon](#cutout_hexagon)  
-[cutout_oval](#cutout_oval) | [cutout_square](#cutout_square) | [cutout_star](#cutout_star)  
-[cutout_triangle](#cutout_triangle) | [cyberpunk](#cyberpunk) | [denoise](#denoise)  
-[depth_map](#depth_map) | [depth_map_v2](#depth_map_v2) | [detail](#detail)  
-[diffuse_glow](#diffuse_glow) | [dotted_halftone](#dotted_halftone) | [edge_enhance](#edge_enhance)  
-[emboss](#emboss) | [engrave](#engrave) | [extrude_3d](#extrude_3d)  
-[eye_detection](#eye_detection) | [face_detection](#face_detection) | [find_edges](#find_edges)  
-[fire](#fire) | [fisheye](#fisheye) | [frosted_glass](#frosted_glass)  
-[gaussian_blur](#gaussian_blur) | [gaussian_splatter](#gaussian_splatter) | [glass_distortion](#glass_distortion)  
-[glitch_art](#glitch_art) | [heatmap](#heatmap) | [high_pass](#high_pass)  
-[hsv](#hsv) | [invert_colors](#invert_colors) | [kaleidoscope](#kaleidoscope)  
-[laplacian](#laplacian) | [limit_rows](#limit_rows) | [median_blur](#median_blur)  
-[mosaic](#mosaic) | [motion_blur](#motion_blur) | [motion_detection](#motion_detection)  
-[negative](#negative) | [number_overlay](#number_overlay) | [object_isolation](#object_isolation)  
-[object_isolation_adv](#object_isolation_adv) | [object_largest_isolation](#object_largest_isolation) | [old_photo](#old_photo)  
-[pencil_sketch](#pencil_sketch) | [pixel_sort](#pixel_sort) | [pixelate](#pixelate)  
-[posterize](#posterize) | [primary_color](#primary_color) | [pytorch_edge_detection](#pytorch_edge_detection)  
-[rainbow](#rainbow) | [replace_color](#replace_color) | [retro_tv](#retro_tv)  
-[ripple](#ripple) | [rotation](#rotation) | [seamless_texture](#seamless_texture)  
-[search_tags](#search_tags) | [sepia](#sepia) | [sharpen](#sharpen)  
-[solarize](#solarize) | [swirl](#swirl) | [tritone](#tritone)  
-[vignette](#vignette) | [vortex](#vortex) | [watermark](#watermark)  
-[xray](#xray)
+<style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* 3 columns */
+        gap: 10px;
+        padding: 10px;
+    }
+    .grid-item {
+        background-color: #f0f0f0;
+        border: 1px solid #ccc;
+        padding: 15px;
+        text-align: center;
+        border-radius: 5px;
+    }
+    .grid-item a {
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+    }
+    .grid-item a:hover {
+        color: #007acc;
+    }
+</style>
+
+<div class="grid-container">
+    <div class="grid-item"><a href="#anaglyph_3d">anaglyph_3d</a></div>
+    <div class="grid-item"><a href="#annotations_yolov8">annotations_yolov8</a></div>
+    <div class="grid-item"><a href="#ascii_art">ascii_art</a></div>
+    <div class="grid-item"><a href="#background_removal_kmeans">background_removal_kmeans</a></div>
+    <div class="grid-item"><a href="#bg_removal_grabcut">bg_removal_grabcut</a></div>
+    <div class="grid-item"><a href="#bg_removal_human">bg_removal_human</a></div>
+    <div class="grid-item"><a href="#bilateral">bilateral</a></div>
+    <div class="grid-item"><a href="#blueprint">blueprint</a></div>
+    <div class="grid-item"><a href="#blur">blur</a></div>
+    <div class="grid-item"><a href="#canny_edge_detection">canny_edge_detection</a></div>
+    <div class="grid-item"><a href="#cartoon">cartoon</a></div>
+    <div class="grid-item"><a href="#charcoal_sketch">charcoal_sketch</a></div>
+    <div class="grid-item"><a href="#chrome">chrome</a></div>
+    <div class="grid-item"><a href="#color_histogram">color_histogram</a></div>
+    <div class="grid-item"><a href="#color_palette">color_palette</a></div>
+    <div class="grid-item"><a href="#color_palette_layover">color_palette_layover</a></div>
+    <div class="grid-item"><a href="#color_quantization">color_quantization</a></div>
+    <div class="grid-item"><a href="#contains_text">contains_text</a></div>
+    <div class="grid-item"><a href="#contour">contour</a></div>
+    <div class="grid-item"><a href="#crystallize">crystallize</a></div>
+    <div class="grid-item"><a href="#cutout_circle">cutout_circle</a></div>
+    <div class="grid-item"><a href="#cutout_diamond">cutout_diamond</a></div>
+    <div class="grid-item"><a href="#cutout_heart">cutout_heart</a></div>
+    <div class="grid-item"><a href="#cutout_hexagon">cutout_hexagon</a></div>
+    <div class="grid-item"><a href="#cutout_oval">cutout_oval</a></div>
+    <div class="grid-item"><a href="#cutout_square">cutout_square</a></div>
+    <div class="grid-item"><a href="#cutout_star">cutout_star</a></div>
+    <div class="grid-item"><a href="#cutout_triangle">cutout_triangle</a></div>
+    <div class="grid-item"><a href="#cyberpunk">cyberpunk</a></div>
+    <div class="grid-item"><a href="#denoise">denoise</a></div>
+    <div class="grid-item"><a href="#depth_map">depth_map</a></div>
+    <div class="grid-item"><a href="#depth_map_v2">depth_map_v2</a></div>
+    <div class="grid-item"><a href="#detail">detail</a></div>
+    <div class="grid-item"><a href="#diffuse_glow">diffuse_glow</a></div>
+    <div class="grid-item"><a href="#dotted_halftone">dotted_halftone</a></div>
+    <div class="grid-item"><a href="#edge_enhance">edge_enhance</a></div>
+    <div class="grid-item"><a href="#emboss">emboss</a></div>
+    <div class="grid-item"><a href="#engrave">engrave</a></div>
+    <div class="grid-item"><a href="#extrude_3d">extrude_3d</a></div>
+    <div class="grid-item"><a href="#eye_detection">eye_detection</a></div>
+    <div class="grid-item"><a href="#face_detection">face_detection</a></div>
+    <div class="grid-item"><a href="#find_edges">find_edges</a></div>
+    <div class="grid-item"><a href="#fire">fire</a></div>
+    <div class="grid-item"><a href="#fisheye">fisheye</a></div>
+    <div class="grid-item"><a href="#frosted_glass">frosted_glass</a></div>
+    <div class="grid-item"><a href="#gaussian_blur">gaussian_blur</a></div>
+    <div class="grid-item"><a href="#gaussian_splatter">gaussian_splatter</a></div>
+    <div class="grid-item"><a href="#glass_distortion">glass_distortion</a></div>
+    <div class="grid-item"><a href="#glitch_art">glitch_art</a></div>
+    <div class="grid-item"><a href="#heatmap">heatmap</a></div>
+    <div class="grid-item"><a href="#high_pass">high_pass</a></div>
+    <div class="grid-item"><a href="#hsv">hsv</a></div>
+    <div class="grid-item"><a href="#invert_colors">invert_colors</a></div>
+    <div class="grid-item"><a href="#kaleidoscope">kaleidoscope</a></div>
+    <div class="grid-item"><a href="#laplacian">laplacian</a></div>
+    <div class="grid-item"><a href="#limit_rows">limit_rows</a></div>
+    <div class="grid-item"><a href="#median_blur">median_blur</a></div>
+    <div class="grid-item"><a href="#mosaic">mosaic</a></div>
+    <div class="grid-item"><a href="#motion_blur">motion_blur</a></div>
+    <div class="grid-item"><a href="#motion_detection">motion_detection</a></div>
+    <div class="grid-item"><a href="#negative">negative</a></div>
+    <div class="grid-item"><a href="#number_overlay">number_overlay</a></div>
+    <div class="grid-item"><a href="#object_isolation">object_isolation</a></div>
+    <div class="grid-item"><a href="#object_isolation_adv">object_isolation_adv</a></div>
+    <div class="grid-item"><a href="#object_largest_isolation">object_largest_isolation</a></div>
+    <div class="grid-item"><a href="#old_photo">old_photo</a></div>
+    <div class="grid-item"><a href="#pencil_sketch">pencil_sketch</a></div>
+    <div class="grid-item"><a href="#pixel_sort">pixel_sort</a></div>
+    <div class="grid-item"><a href="#pixelate">pixelate</a></div>
+    <div class="grid-item"><a href="#posterize">posterize</a></div>
+    <div class="grid-item"><a href="#primary_color">primary_color</a></div>
+    <div class="grid-item"><a href="#pytorch_edge_detection">pytorch_edge_detection</a></div>
+    <div class="grid-item"><a href="#rainbow">rainbow</a></div>
+    <div class="grid-item"><a href="#replace_color">replace_color</a></div>
+    <div class="grid-item"><a href="#retro_tv">retro_tv</a></div>
+    <div class="grid-item"><a href="#ripple">ripple</a></div>
+    <div class="grid-item"><a href="#rotation">rotation</a></div>
+    <div class="grid-item"><a href="#seamless_texture">seamless_texture</a></div>
+    <div class="grid-item"><a href="#search_tags">search_tags</a></div>
+    <div class="grid-item"><a href="#sepia">sepia</a></div>
+    <div class="grid-item"><a href="#sharpen">sharpen</a></div>
+    <div class="grid-item"><a href="#solarize">solarize</a></div>
+    <div class="grid-item"><a href="#swirl">swirl</a></div>
+    <div class="grid-item"><a href="#tritone">tritone</a></div>
+    <div class="grid-item"><a href="#vignette">vignette</a></div>
+    <div class="grid-item"><a href="#vortex">vortex</a></div>
+    <div class="grid-item"><a href="#watermark">watermark</a></div>
+    <div class="grid-item"><a href="#xray">xray</a></div>
+</div>
 
 
 
