@@ -12,7 +12,7 @@ Below is documentation on each filter.
 <style>
     .grid-container {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* 3 columns */
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Responsive columns */
         gap: 10px;
         padding: 10px;
     }
@@ -22,14 +22,24 @@ Below is documentation on each filter.
         padding: 15px;
         text-align: center;
         border-radius: 5px;
+        box-sizing: border-box; /* Ensures padding is included in width */
+        font-size: 1rem; /* Adjusts font size for better readability */
     }
     .grid-item a {
         text-decoration: none;
         color: #333;
         font-weight: bold;
+        display: block; /* Makes the link fill the grid item */
+        width: 100%;
+        height: 100%;
     }
     .grid-item a:hover {
         color: #007acc;
+    }
+    @media (max-width: 600px) {
+        .grid-item {
+            font-size: 0.875rem; /* Adjust font size for smaller screens */
+        }
     }
 </style>
 
@@ -123,7 +133,6 @@ Below is documentation on each filter.
     <div class="grid-item"><a href="#watermark">watermark</a></div>
     <div class="grid-item"><a href="#xray">xray</a></div>
 </div>
-
 
 
 
