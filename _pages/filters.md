@@ -4,8 +4,6 @@ title:
 permalink: /filters/
 ---
 
-<iframe src="https://player.vimeo.com/video/344009812" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 Below is documentation on each filter. 
 
 
