@@ -2,7 +2,7 @@
 layout: page
 title: 
 permalink: /image-batch-fusion/
-image: '/images/image-batch-fusion/img-batch-fusion-s.png'
+image: '/images/image-batch-fusion/img-batch-fusion.png'
 ---
 
 Welcome to Image Batch Fusion. Below are some links to documentation pages and other resources. 
