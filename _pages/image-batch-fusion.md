@@ -9,12 +9,12 @@ permalink: /image-batch-fusion/
 Welcome to Image Batch Fusion. Below are some links to documentation pages and other resources. 
 
 ## Documentation Sections
-[**Input Types**](/sea-lions-at-pier-39)  
+[**Input Types**](/input-types)  
 [**Filters**](/filters)  
-[**Search and Find**](/search_and_find)  
-[**Overlays**](/cable-cars)  
-[**Output Types**](/city-life)  
-[**Other Features**](/bart-station)  
-[**Updates**](/waves-rain-water)  
+[**Search and Find**](/search-and-find)  
+[**Overlays**](/overlays)  
+[**Output Types**](/output-types)  
+[**Other Features**](/other-features)  
+[**Updates**](/updates)  
 
 Thank you. 
