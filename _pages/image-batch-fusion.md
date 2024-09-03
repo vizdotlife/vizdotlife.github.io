@@ -2,9 +2,8 @@
 layout: page
 title: 
 permalink: /image-batch-fusion/
+image: '/images/image-batch-fusion/img-batch-fusion.jpg'
 ---
-
-<iframe src="https://player.vimeo.com/video/344009812" width="320" height="180" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Welcome to Image Batch Fusion. Below are some links to documentation pages and other resources. 
 
