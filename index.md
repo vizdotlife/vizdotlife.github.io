@@ -8,6 +8,8 @@ Abstract5: RQsVeUefZFI
 Abstract4: 5-8TXgo5xmg
 Abstract3: pGWMDImglOk
 Abstract1: dDAs-kMdCAY
+SciFi: rtmSJ7GvdIs
+LineArt: cfMTIEpv3pc
 image: '/images/banner-6-50pct.jpg'
 type: homepage
 ---
@@ -19,6 +21,9 @@ And Viz Life Studio is where I get to share all these projects with the world.
 For the longest time I tried to pick one specific niche to focus on, but I realized that it's just not me. I'm passionate about so many different areas and it's enjoyable to share some of those experiences with you. And that's what you'll see here. 
 
 I've embraced the journey and learning new things everyday. 
+
+### Here's my default cube || Short Animation
+{% include youtubePlayer.html id=page.SciFi %}  
 
 ### Abstract Animation #8 || Short Animation
 {% include youtubePlayer.html id=page.Abstract8 %}  
@@ -40,3 +45,6 @@ I've embraced the journey and learning new things everyday.
   
 ### Abstract Animation #2 || Short Animation
 {% include youtubePlayer.html id=page.Abstract1 %}  
+
+### Line Art Animation || Short Animation
+{% include youtubePlayer.html id=page.LineArt %}  
