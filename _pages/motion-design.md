@@ -8,10 +8,15 @@ Abstract5: RQsVeUefZFI
 Abstract4: 5-8TXgo5xmg
 Abstract3: pGWMDImglOk
 Abstract1: dDAs-kMdCAY
+SciFi: rtmSJ7GvdIs
+LineArt: cfMTIEpv3pc
 permalink: /motion-design/
 image: '/images/banner-6-50pct.jpg'
 ---
 Here's some of my motion design animations.
+
+### Here's my default cube || Short Animation
+{% include youtubePlayer.html id=page.SciFi %}  
 
 ### Abstract Animation #8 || Short Animation
 {% include youtubePlayer.html id=page.Abstract8 %}  
@@ -33,4 +38,7 @@ Here's some of my motion design animations.
   
 ### Abstract Animation #2 || Short Animation
 {% include youtubePlayer.html id=page.Abstract1 %}  
+
+### Line Art Animation || Short Animation
+{% include youtubePlayer.html id=page.LineArt %}  
 
