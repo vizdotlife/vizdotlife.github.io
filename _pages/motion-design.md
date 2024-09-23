@@ -15,30 +15,29 @@ image: '/images/banner-6-50pct.jpg'
 ---
 Here's some of my motion design animations.
 
-### Here's my default cube || Short Animation
-{% include youtubePlayer.html id=page.SciFi %}  
-
-### Abstract Animation #8 || Short Animation
-{% include youtubePlayer.html id=page.Abstract8 %}  
-
-### Abstract Animation #7 || Short Animation
-{% include youtubePlayer.html id=page.Abstract7 %}  
-
-### Abstract Animation #6 || Short Animation
-{% include youtubePlayer.html id=page.Abstract6 %}  
-
-### Abstract Animation #5 || Short Animation
+### Abstract Animation #5 || Short Animation  
 {% include youtubePlayer.html id=page.Abstract5 %}  
-  
-### Abstract Animation #4 || Short Animation
+
+### Abstract Animation #4 || Short Animation  
 {% include youtubePlayer.html id=page.Abstract4 %}  
-  
-### Abstract Animation #3 || Short Animation
-{% include youtubePlayer.html id=page.Abstract3 %}  
-  
-### Abstract Animation #2 || Short Animation
+
+### Abstract Animation #2 || Short Animation  
 {% include youtubePlayer.html id=page.Abstract1 %}  
 
-### Line Art Animation || Short Animation
+### Abstract Animation #8 || Short Animation  
+{% include youtubePlayer.html id=page.Abstract8 %}  
+
+### Abstract Animation #7 || Short Animation  
+{% include youtubePlayer.html id=page.Abstract7 %}  
+
+### Here's my default cube || Short Animation    
+{% include youtubePlayer.html id=page.SciFi %}  
+
+### Line Art Animation || Short Animation  
 {% include youtubePlayer.html id=page.LineArt %}  
 
+### Abstract Animation #6 || Short Animation  
+{% include youtubePlayer.html id=page.Abstract6 %}  
+   
+### Abstract Animation #3 || Short Animation  
+{% include youtubePlayer.html id=page.Abstract3 %}  
